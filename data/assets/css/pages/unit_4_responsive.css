@@ -1,6 +1,6 @@
 @media (max-width: 767px) {
 /********************** unit_3_lesson_2 .exercise_2 ********************/
-
+.unit_4_lesson_1 .exercise4 .header_text{margin-left: 2%;}
 
   /********************** unit_3_lesson_3 .exercise_4 ********************/
 
@@ -36,8 +36,9 @@
 .unit_4_lesson_1 .exercise3 .right_dreg_drop_area {width: 100%; height: auto; padding-bottom: 25px;}
 .unit_4_lesson_1 .exercise3 .header_part{height: auto;}
 
-.unit_4_lesson_1 .exercise4 .header_text {margin-left: 0px;}
-.unit_4_lesson_1 .exercise4 .two_box_number{width: 100%;margin-bottom: 15px;}
+.unit_4_lesson_1 .exercise4 .header_text {margin-left: 0px;position: relative;top:54px;}
+.unit_4_lesson_1 .exercise4 .two_box_number{width: 100%;}
+.unit_4_lesson_1 .exercise4 .two_box_number:first-child{margin-bottom: 15px;}
 .unit_4_lesson_1 .exercise4 .match_box{padding:0px 10px;}
 .unit_4_lesson_1 .exercise4 .header_part{ background:#fff;}
 .unit_4_lesson_1 .exercise4 .header_part{height: auto;}
@@ -46,5 +47,5 @@
 
 
 @media only screen and (max-height: 414px) and (max-width: 823px) {
-
+  .unit_4_lesson_1 .exercise4 .header_text{margin-left: 2%;}
 }
