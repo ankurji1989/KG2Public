@@ -1,0 +1,477 @@
+/********************** unit_3_lesson_1 .exercise_2 ********************/
+/********************** unit_3_lesson_1 .exercise_2 ********************/
+.unit_3_lesson_1 .exercise2 img {width: 100%; max-width: 100%;}
+.unit_3_lesson_1 .exercise2 .header_part {width: 100%; height: 90px; float: left; position: relative;}
+.unit_3_lesson_1 .exercise2 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_1 .exercise2 .right_word_text {width: 150px; float: left; margin-top: 30px;}
+.unit_3_lesson_1 .exercise2 .navbar { width: 100%; height: 100px; position: relative; float: left; top: -20px;}
+.unit_3_lesson_1 .exercise2 .three_box_number {width: 50%; float: left; height: 100px; display: flex; align-items: center; justify-content: center; position: relative; bottom: 30px;}
+.unit_3_lesson_1 .exercise2 .main_box .ball{ width: 85%; margin: auto; text-align: center; }
+.unit_3_lesson_1 .exercise2 .main_box .ball img{ width: 100%; }
+.unit_3_lesson_1 .exercise2 .text_area {width: 50%; float: left;}
+.unit_3_lesson_1.exercise2 .number_area {width: 17%;float: left; margin-left: 10px;}
+.unit_3_lesson_1 .text_area.spiker_icon.Zoom {width: 60px;}
+.unit_3_lesson_1 .exercise2 .bottom_border:after {background: url(../../images/unit1/lesson_1/exercise_2/horizontal_line.png) right top; width: 100%;height: 44px; position: absolute; content: ''; left: 0; background-repeat: no-repeat; bottom: -7px; background-size: 100%;}
+.unit_3_lesson_1 .exercise2 .second_use .left_pointer_img {top: -47px; left: 0;}
+.unit_3_lesson_1 .exercise2 .main_box {width: 100%; height: auto; position: relative; float: left; top: -47px;}
+.unit_3_lesson_1 .exercise2 .text_area_fill {width: 60%; float: left;}
+.unit_3_lesson_1 .exercise2 .input_area_number {width: 50%;float: left;}
+.unit_3_lesson_1 .exercise2 .input-box {width: 85%; margin: auto;}
+.unit_3_lesson_1 .exercise2 .input-num-box {width: 50%; float: left;}
+.unit_3_lesson_1 .exercise2input#nine_number {width: 100%;}
+.unit_3_lesson_1 .exercise2 .input-num-box input{width: 100%;}
+.unit_3_lesson_1 .exercise2 .input-text-box {width: 50%; float: left;}
+.unit_3_lesson_1 .exercise2 input#nine_text {width: 100%;}
+.unit_3_lesson_1 .exercise2 .input-num-box input {width: 100%; border-left: none; border-right: none; height: 50px; text-align: center;}
+.unit_3_lesson_1 .exercise2 .input-text-box input {width: 100%; border-left: none; border-right: none; height: 50px; text-align: center;}
+
+
+/********************** unit_3_lesson_1 .exercise_2 End ********************/
+
+/********************** unit_3_lesson_3 .exercise_2 Start ********************/
+
+
+.unit_3_lesson_3 .exercise2 img {width: 100%; max-width: 100%;}
+
+.unit_3_lesson_3 .exercise2 .header_part {width: 100%; height: 90px; float: left; position: relative;}
+
+.unit_3_lesson_3 .exercise2 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+
+.unit_3_lesson_3 .exercise2 .right_word_text {width: 150px; float: left; margin-top: 30px;}
+
+.unit_3_lesson_3 .exercise2 .navbar { width: 100%; height: 100px; position: relative; float: left; top: -20px;}
+
+.unit_3_lesson_3 .exercise2 .three_box_number {width: 50%; float: left; height: 100px; display: flex; align-items: center; justify-content: center; position: relative; bottom: 30px;}
+
+.unit_3_lesson_3 .exercise2 .main_box .ball{ width: 85%; margin: auto; text-align: center; }
+.unit_3_lesson_3 .exercise2 .main_box .ball img{ width: 100%; }
+
+.unit_3_lesson_3 .exercise2 .text_area {width: 50%; float: left;}
+
+
+
+.unit_3_lesson_3 .exercise2 .number_area {width: 17%;float: left; margin-left: 10px;}
+
+.unit_3_lesson_3 .text_area.spiker_icon.Zoom {width: 60px;}
+
+.unit_3_lesson_3 .exercise2 .bottom_border:after {background: url(../../images/unit1/lesson_1/exercise_2/horizontal_line.png) right top; width: 100%;height: 44px; position: absolute; content: ''; left: 0; background-repeat: no-repeat; bottom: -7px; background-size: 100%;}
+
+.unit_3_lesson_3 .exercise2 .second_use .left_pointer_img {top: -47px; left: 0;}
+
+.unit_3_lesson_3 .exercise2 .main_box {width: 100%; height: auto; position: relative; float: left; top: -47px;}
+
+.unit_3_lesson_3 .exercise2 .text_area_fill {width: 60%; float: left;}
+
+.unit_3_lesson_3 .exercise2 .input_area_number {width: 50%;float: left;}
+
+.unit_3_lesson_3 .exercise2 .input-box {width: 85%; margin: auto;}
+
+.unit_3_lesson_3 .exercise2 .input-num-box {width: 50%; float: left;}
+
+.unit_3_lesson_3 .exercise2input#nine_number {width: 100%;}
+.unit_3_lesson_3 .exercise2 .input-num-box input{width: 100%;}
+
+.unit_3_lesson_3 .exercise2 .input-text-box {width: 50%; float: left;}
+
+.unit_3_lesson_3 .exercise2 input#nine_text {width: 100%;}
+
+.unit_3_lesson_3 .exercise2 .input-num-box input {width: 100%; border-left: none; border-right: none; height: 50px; text-align: center;}
+
+.unit_3_lesson_3 .exercise2 .input-text-box input {width: 100%; border-left: none; border-right: none; height: 50px; text-align: center;}
+
+
+/********************** unit_3_lesson_3 .exercise_2 End ********************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************** unit_3_lesson_1 .exercise_3 ********************/
+
+.unit_3_lesson_1 .exercise_3 .exercise_3_main{ width: 100%; position: relative; float: left; height: 100%; }
+.unit_3_lesson_1 .exercise_3 .bg_div{ background: url(../../images/unit3/lesson_1/exercise_3/background.png) center center; width: 100%; height: 100%; background-repeat: no-repeat; background-size: cover;}
+.unit_3_lesson_1 .exercise_3 .bg_div .left_pointer_img { width: 326px; height: 94px; position: absolute; top: -50px; left: -35px; z-index: 9;}
+
+.unit_3_lesson_1 .exercise_3 .left_dreg_drop_area{width: 50%; float: left; height: 100%;}
+.unit_3_lesson_1 .exercise_3 .drop_Box {width: 310px; height: 172px; background: url(../../images/unit3/lesson_1/exercise_3/10_blank_box.png) center center; background-size: 100%; background-repeat: no-repeat;  position: relative; top: 49px;    left: 17px; float: left;}
+.unit_3_lesson_1 .exercise_3 .dreg_area { width: 62%; float: left; height: auto; display: flex; align-items: center;    justify-content: center; position: relative; left: 30px; top: 40px;}
+
+.unit_3_lesson_1 .exercise_3 .number_box {margin: 15px 5px; width: 70px;}
+.unit_3_lesson_1 .exercise_3 .left_dreg_drop_area .dreg_area .icon_box.dreg_box_item {margin: 15px 5px;  width: 50px; top: 0 !important; left: 0 !important; cursor: pointer;}
+.unit_3_lesson_1 .exercise_3 .text_box {margin: 15px 5px; width: 120px;}
+
+.unit_3_lesson_1 .exercise_3 .number_box img{width: 100%;}
+.unit_3_lesson_1 .exercise_3 .icon_box img{width: 100%;}
+.unit_3_lesson_1 .exercise_3 .text_box img{width: 100%;}
+
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area{width: 50%; float: left; height: 100%;}
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area .drop_Box { width: 70%; height: 172px; background: url(../../images/unit3/lesson_1/exercise_3/10_blank_box.png) center center; background-size: 100%; background-repeat: no-repeat; position: relative; top: 30px; left: 37px;}
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area .dreg_area { width: 100%; float: left; height: auto; display: flex;    align-items: center; justify-content: center; position: relative; top: 50px; left: -41px;}
+
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area .number_box {margin: 15px 5px; width: 70px;}
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area .icon_box.dreg_box_item {margin: 15px 5px; width: 70px;}
+
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area .text_box {margin: 15px 5px; width: 120px;}
+
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area .number_box img{width: 100%;}
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area .icon_box img{width: 100%;}
+#triangles {top: 0 !important; left: 0 !important; float: left; width: 50px; cursor: pointer;}
+.unit_3_lesson_1 .exercise_3 .right_dreg_drop_area .text_box img{width: 100%;}
+
+
+.icon_box:nth-child(1) { width: 50px; position: relative !important; left: 6px !important; top: 24px !important;}
+.icon_box:nth-child(2) { width: 50px; position: relative !important; left: 68px !important; top: -30px !important;}
+.icon_box:nth-child(3) { width: 50px; position: relative !important;left: 130px !important; top: -85px !important;}
+.icon_box:nth-child(4) { width: 50px; position: relative !important; left: 188px !important; top: -138px !important;}
+.icon_box:nth-child(5) { width: 50px; position: relative !important; left: 253px !important; top: -192px !important;}
+.icon_box:nth-child(6) { width: 50px; position: relative !important; left: 6px !important; top: -170px !important;}
+.icon_box:nth-child(7) { width: 50px; position: relative !important; left: 68px !important; top: -223px !important;}
+.icon_box:nth-child(8) { width: 50px; position: relative !important; left: 130px !important; top: -276px !important;}
+.icon_box:nth-child(9) { width: 50px; position: relative !important; left: 189px !important; top: -331px !important;}
+.icon_box:nth-child(10) { width: 50px; position: relative !important; left: 253px !important; top: -385px !important;}
+
+.unit_3_lesson_1 .exercise_3 .botton_box {width: 100px; position: absolute; right: 0; bottom: 0;}
+.unit_3_lesson_1 .exercise_3 .submit_btn {width: 50px; float: left; height: auto;}
+.unit_3_lesson_1 .exercise_3 .reload {width: 50px; float: left; height: auto;}
+.unit_3_lesson_1 .exercise_3 .botton_box img{width: 100%; max-width: 100%;}
+
+
+/********************** unit_3_lesson_1 .exercise_3 End ********************/
+
+
+/********************** unit_3_lesson_1 .exercise_4 ********************/
+.unit_3_lesson_1 .exercise_4{background: #d4effb; position: relative; float: left; height: 100%; width: 100%;}
+.unit_3_lesson_1 .exercise_4 .left_pointer_img { width: 326px; height: 94px; position: absolute; top: -50px; left: -35px; z-index: 9;}
+.unit_3_lesson_1 .exercise_4 .top_bag_area{ width: 100%; height: 300px;}
+.unit_3_lesson_1 .exercise_4 .text_area { width: 20%; position: relative; top: 100px; left: 50px; float: left;}
+.unit_3_lesson_1 .exercise_4 .bag_area { position: relative; float: left; width: 66%; left: 110px; top: 8px;}
+.unit_3_lesson_1 .exercise_4 .bag_box {width: 115px; height: 76px; float: left; background: url(../../images/unit3/lesson_1/exercise_4/blank_bag.png) center center no-repeat; background-size: 75%; cursor: pointer;}
+
+.unit_3_lesson_1 .exercise_4 .bag_box.bag_active {background: url(../../images/unit3/lesson_1/exercise_4/color_bag.png) center center no-repeat; background-size: 75%;}
+
+.unit_3_lesson_1 .exercise_4 .top_book_area{ width: 100%; height:242px;}
+.unit_3_lesson_1 .exercise_4 .top_book_area .text_area { width: 20%; position: relative; top: 100px; left: 50px; float: left;}
+.unit_3_lesson_1 .exercise_4 .top_book_area .bag_area { position: relative; float: left; width: 66%; left: 110px; top: 8px;}
+.unit_3_lesson_1 .exercise_4 .top_book_area .book_box {width: 115px; height: 76px; float: left; background: url(../../images/unit3/lesson_1/exercise_4/blank_book.png) center center no-repeat; background-size: 63%; cursor: pointer;}
+
+.unit_3_lesson_1 .exercise_4 .book_box.book_active {background: url(../../images/unit3/lesson_1/exercise_4/color_book.png) center center no-repeat; background-size: 63%;}
+
+.unit_3_lesson_1 .exercise_4 .botton_box {width: 100px; position: absolute; right: 0; bottom: 0;}
+.unit_3_lesson_1 .exercise_4 .submit_btn {width: 50px; float: left; height: auto;}
+.unit_3_lesson_1 .exercise_4 .reload {width: 50px; float: left; height: auto;}
+.unit_3_lesson_1 .exercise_4 .botton_box img{width: 100%; max-width: 100%;}
+
+
+
+
+/********************** unit_3_lesson_2 .exercise_2 ********************/
+.unit_3_lesson_2 .exercise2 .header_part {height: 70px}
+.unit_3_lesson_2 .exercise2 {background: #fff;}
+.unit_3_lesson_2 .exercise2 .contentBox {width: 100%; float: left;height: 80%;display: flex; flex-wrap: wrap; align-items: center; justify-content: center; vertical-align: middle; background: #fff;  padding-bottom: 25px}
+.unit_3_lesson_2 .exercise2 .sumArea {width: 100%;	float: left; display: flex;	align-items: center;justify-content: center;}
+
+.unit_3_lesson_2 .exercise2 .numberBox {margin: 0 30px; position: relative;}
+
+.unit_3_lesson_2 .exercise2 input {  font-family: 'quicksanddash';  width: 60%;  text-align: center; border-top: 1px solid #000; border-bottom: 1px solid #000; font-size: 40px;margin-left: 20%; position: absolute; bottom: 68%; padding: 0;    margin-bottom: 0;}
+
+/********************** unit_3_lesson_2 .exercise_3 ********************/
+.unit_3_lesson_2 .exercise3 .header_part {height: 70px}
+.unit_3_lesson_2 .exercise3 {background: #fff;}
+.unit_3_lesson_2 .exercise3 .contentBox { width: 100%; float: left; height: 80%; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; vertical-align: middle; background: #fff;  padding-bottom: 25px}
+.unit_3_lesson_2 .exercise3 .sumArea { width: 100%; float: left; display: flex; align-items: center; justify-content: center;}
+.unit_3_lesson_2 .exercise3 .numberBox {margin: 0 30px; position: relative;}
+.unit_3_lesson_2 .exercise3 input { font-family: 'quicksanddash'; width: 60%; text-align: center; font-size: 40px; position: absolute; padding: 0; background-image: none; border: 0; top: -5px; bottom: 0; left: 0; right: 0; margin: auto;}
+
+
+/********************** unit_3_lesson_2 .exercise_4 ********************/
+.unit_3_lesson_2 .exercise4 .header_part {height: 70px}
+.unit_3_lesson_2 .exercise4 {background: #fff;}
+.unit_3_lesson_2 .exercise4 .contentBox {width: 100%; float: left; height: 80%; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; vertical-align: middle; background: #fff;  padding-bottom: 25px}
+.unit_3_lesson_2 .exercise4 .sumArea { width: 100%; float: left; display: flex; align-items: center; justify-content: center;}
+
+.unit_3_lesson_2 .exercise4 input { font-family: 'quicksanddash'; width: 60%; text-align: center; font-size: 40px; position: absolute; padding: 0; background-image: none; border: 0; top: -5px; bottom: 0; left: 0; right: 0; margin: auto;  background: none;}
+.unit_3_lesson_2 .exercise4 .numberBox {margin: 0 5px; position: relative;}
+.unit_3_lesson_2 .exercise4 .equal {margin-left: 10px; margin-right: 20px}
+
+
+
+
+
+
+
+
+/********************** unit_3_lesson_3 .exercise_3 ********************/
+
+.unit_3_lesson_3 .exercise_3 .exercise_3_main{ width: 100%; position: relative; float: left; height: 100%; }
+.unit_3_lesson_3 .exercise_3 .bg_div{ background: url(../../images/unit3/lesson_1/exercise_3/background.png) center center; width: 100%; height: 100%; background-repeat: no-repeat; background-size: cover;}
+.unit_3_lesson_3 .exercise_3 .bg_div .left_pointer_img { width: 326px; height: 94px; position: absolute; top: -50px; left: -35px; z-index: 9;}
+
+.unit_3_lesson_3 .exercise_3 .left_dreg_drop_area{width: 50%; float: left; height: 100%;}
+.unit_3_lesson_3 .exercise_3 .drop_Box {width: 310px; height: 172px; background: url(../../images/unit3/lesson_1/exercise_3/10_blank_box.png) center center; background-size: 100%; background-repeat: no-repeat;  position: relative; top: 49px;    left: 17px; float: left;}
+.unit_3_lesson_3 .exercise_3 .dreg_area { width: 62%; float: left; height: auto; display: flex; align-items: center;    justify-content: center; position: relative; left: 30px; top: 40px;}
+
+.unit_3_lesson_3 .exercise_3 .number_box { margin: 4px 5px;  width: 50px;}
+.unit_3_lesson_3 .exercise_3 .left_dreg_drop_area .dreg_area .icon_box.dreg_box_item {margin: 15px 5px;  width: 50px; top: 0 !important; left: 0 !important; cursor: pointer;}
+.unit_3_lesson_3 .exercise_3 .text_box {margin: 15px 5px; width: 120px;}
+
+.unit_3_lesson_3 .exercise_3 .number_box img{width: 100%;}
+.unit_3_lesson_3 .exercise_3 .icon_box img{width: 100%;}
+.unit_3_lesson_3 .exercise_3 .text_box img{width: 100%;}
+
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area{width: 50%; float: left; height: 100%;}
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area .drop_Box { width: 70%; height: 172px; background: url(../../images/unit3/lesson_1/exercise_3/10_blank_box.png) center center; background-size: 100%; background-repeat: no-repeat; position: relative; top: 30px; left: 37px;}
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area .dreg_area { width: 100%; float: left; height: auto; display: flex;    align-items: center; justify-content: center; position: relative; top: 50px; left: -41px;}
+
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area .number_box {margin: 15px 5px; width: 70px;}
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area .icon_box.dreg_box_item {margin: 15px 5px; width: 70px;}
+
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area .text_box {margin: 15px 5px; width: 120px;}
+
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area .number_box img{width: 100%;}
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area .icon_box img{width: 100%;}
+#triangles {top: 0 !important; left: 0 !important; float: left; width: 50px; cursor: pointer;}
+.unit_3_lesson_3 .exercise_3 .right_dreg_drop_area .text_box img{width: 100%;}
+
+
+.icon_box:nth-child(1) { width: 50px; position: relative !important; left: 6px !important; top: 24px !important;}
+.icon_box:nth-child(2) { width: 50px; position: relative !important; left: 68px !important; top: -30px !important;}
+.icon_box:nth-child(3) { width: 50px; position: relative !important;left: 130px !important; top: -85px !important;}
+.icon_box:nth-child(4) { width: 50px; position: relative !important; left: 188px !important; top: -138px !important;}
+.icon_box:nth-child(5) { width: 50px; position: relative !important; left: 253px !important; top: -192px !important;}
+.icon_box:nth-child(6) { width: 50px; position: relative !important; left: 6px !important; top: -170px !important;}
+.icon_box:nth-child(7) { width: 50px; position: relative !important; left: 68px !important; top: -223px !important;}
+.icon_box:nth-child(8) { width: 50px; position: relative !important; left: 130px !important; top: -276px !important;}
+.icon_box:nth-child(9) { width: 50px; position: relative !important; left: 189px !important; top: -331px !important;}
+.icon_box:nth-child(10) { width: 50px; position: relative !important; left: 253px !important; top: -385px !important;}
+
+.unit_3_lesson_3 .exercise_3 .botton_box {width: 100px; position: absolute; right: 0; bottom: 0;}
+.unit_3_lesson_3 .exercise_3 .submit_btn {width: 50px; float: left; height: auto;}
+.unit_3_lesson_3 .exercise_3 .reload {width: 50px; float: left; height: auto;}
+.unit_3_lesson_3 .exercise_3 .botton_box img{width: 100%; max-width: 100%;}
+
+
+/********************** unit_3_lesson_1 .exercise_3 End ********************/
+
+
+/********************** unit_3_lesson_3 .exercise_4 ********************/
+
+.unit_3_lesson_3 .exercise_4 {width: 100%; position: relative; float: left; height: 100%; background: #fff; }
+.unit_3_lesson_3 .exercise_4 img {width: 100%; max-width: 100%;}
+.unit_3_lesson_3 .exercise_4 .header_part {width: 100%; height: 90px; float: left; position: relative;}
+.unit_3_lesson_3 .exercise_4 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+
+.unit_3_lesson_3 .exercise_4 .match_box_area { position: relative; width: 680px; height: 350px; left: 195px; top: 30px;    float: left;}
+.unit_3_lesson_3 .exercise_4 .left_side_box { width: 200px;  height: auto; float: left; position: relative;}
+.unit_3_lesson_3 .exercise_4 .right_side_box { width: 260px; float: left; position: relative; left: 136px;}
+.unit_3_lesson_3 .exercise_4 .top_jhoola {width: 200px; height: 167px; position: relative;}
+.unit_3_lesson_3 .exercise_4 .bottom_jhoola { width: 200px; height: 160px; position: relative;  top: 30px;}
+.unit_3_lesson_3 .exercise_4 .top_jhoola_right { position: relative; top: 54px;}
+.unit_3_lesson_3 .exercise_4 .bottom_jhoola_right { top: 174px; position: relative;}
+.unit_3_lesson_3 .exercise_4 .right_boy {position: absolute; bottom: 13px; left: 116px; width: 110px;}
+.unit_3_lesson_3 .exercise_4 .right_jhoola { position: absolute; width: 160px; top: 60px; right: 130px;}
+
+.unit_3_lesson_3 .exercise_4 .top_jhoola .clikBox { position: absolute; width: 20px; height: 20px; background: #000; right: -16px; border-radius: 50%; top: 75px; cursor: pointer;}
+
+.unit_3_lesson_3 .exercise_4 .bottom_jhoola .clikBox { position: absolute; width: 20px; height: 20px; background: #000; right: -3px; border-radius: 50%; top: 70px; cursor: pointer;}
+
+.unit_3_lesson_3 .exercise_4 .top_jhoola_right .clikBox { position: absolute; width: 20px; height: 20px; background: #000;    left: 0px; border-radius: 50%; top: 25px; cursor: pointer;}
+
+.unit_3_lesson_3 .exercise_4 .bottom_jhoola_right .clikBox { position: absolute; width: 20px; height: 20px; background: #000;    left: 0px; border-radius: 50%; top: 25px; cursor: pointer;}
+
+.unit_3_lesson_3 .exercise_4 .line { display: none; background: #000; position: absolute; left: 0; top: 0;}
+.unit_3_lesson_3 .exercise_4 .line_1 { width: 130px; height: 2px; left: 212px; top: 83px; transform: rotate(0deg);}
+.unit_3_lesson_3 .exercise_4 .line_2 { width: 240px; height: 2px; left: 160px; top: 186px;transform: rotate(54deg);}
+.unit_3_lesson_3 .exercise_4 .line_3 { width: 138px; height: 2px; left: 201px; top: 277px; transform: rotate(0deg);}
+.unit_3_lesson_3 .exercise_4 .line_4 { width: 244px; height: 2px; left: 142px; top: 187px; transform: rotate(-51deg);}
+.unit_3_lesson_3 .exercise_4 .botton_box { width: 100px; position: absolute; right: 0px; bottom: 0px;}
+
+
+
+
+/********************** unit_3_lesson_4 .exercise_2 ********************/
+
+.unit_3_lesson_4 .exercise_2 {width: 100%; position: relative; float: left; height: 100%; background: #fff; }
+.unit_3_lesson_4 .exercise_2 img {width: 100%; max-width: 100%;}
+.unit_3_lesson_4 .exercise_2 .header_part {width: 100%; height: 90px; float: left; position: absolute;}
+.unit_3_lesson_4 .exercise_2 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+
+.martion_top20{margin-top: 70px;}
+.container.martion_top20 {
+    width: 86%;
+}
+.unit_3_lesson_4 .exercise_2 img.panchi_w { width: 80px; height: auto; text-align: center; margin: auto;}
+.unit_3_lesson_4 .exercise_2 .input_number_box { background: url(../../images/unit3/lesson_4/exercise_2/input_img.png) center center; width: 100%; height: 111px; background-repeat: no-repeat; background-size: 100%;}
+.unit_3_lesson_4 .exercise_2  .input_fild { width: 51px; height: 86px; float: left; position: relative; left: 2px; top: 20px;    margin-right: 14px;}
+.unit_3_lesson_4 .exercise_2 .input_fild input {
+    width: 49px;
+    height: 86px;
+    border: none;
+    font-size: 35px;
+    text-align: center;
+}
+.unit_3_lesson_4 .exercise_2 .botton_box { width: 100px; position: absolute; right: 0px; bottom: 0px;}
+
+.unit_3_lesson_4 .exercise_2 .input_fild.w10 input {
+    width: 59px;
+    left: 0px !important;
+}
+
+/********************** unit_3_lesson_4 .exercise_3 ********************/
+
+.unit_3_lesson_4 .exercise_3 {width: 100%; position: relative; float: left; height: 100%; background: #f7dace; }
+.unit_3_lesson_4 .exercise_3 img {width: 100%; max-width: 100%;}
+.unit_3_lesson_4 .exercise_3 .header_part {width: 100%; height: 90px; float: left; position: absolute;}
+.unit_3_lesson_4 .exercise_3 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_4 .exercise_3 .botton_box { width: 100px; position: absolute; right: 0px; bottom: 0px;}
+
+
+.unit_3_lesson_4 .exercise_3 .number_area { background: url(../../images/unit3/lesson_4/exercise_3/children.png) center center; width: 731px; height: 384px;position: relative; margin: auto; top: 60px;}
+
+.unit_3_lesson_4 .exercise_3 .input_number_box { background: url(../../images/unit3/lesson_4/exercise_3/number_area.png) center center; width: 100%; height: 118px;background-repeat: no-repeat; top: 20px; position: relative;}
+.unit_3_lesson_4 .exercise_3 .input_fild {width: 41px; height: 57px; float: left; position: relative; left: 12px; top: 37px;    margin-right: 23px;}
+.unit_3_lesson_4 .exercise_3 .input_fild input { width: 44px; height: 58px; border: none; font-size: 35px; text-align: center;}
+.unit_3_lesson_4 .exercise_3  .line_number { width: 160px; margin: auto; position: relative; top: 70px;}
+
+
+/********************** unit_3_lesson_4 .exercise_4 ********************/
+
+.unit_3_lesson_4 .exercise_4 {width: 100%; position: relative; float: left; height: 100%; background: #eaf2dd; }
+.unit_3_lesson_4 .exercise_4 img {width: 100%; max-width: 100%;}
+.unit_3_lesson_4 .exercise_4 .header_part {width: 100%; height: 90px; float: left; position: absolute;}
+.unit_3_lesson_4 .exercise_4 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_4 .exercise_4 .botton_box { width: 100px; position: absolute; right: 0px; bottom: 0px;}
+
+
+.unit_3_lesson_4 .exercise_4 .number_area { background: url(../../images/unit3/lesson_4/exercise_4/bg.png) center center;    width: 631px; height: 324px; position: relative; margin: auto; top: 110px; background-repeat: no-repeat;}
+.unit_3_lesson_4 .exercise_4 .input_fild {
+    width: 34px;
+    height: 34px;
+    float: left;
+    position: absolute;
+    /* margin-right: 23px; */
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.one{
+	left: 55px;
+    top: 5px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.three {
+    left: 170px;
+    top: 5px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.five {
+    left: 283px;
+    top: 5px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.seven {
+    left: 398px;
+    top: 5px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.nine {
+    left: 513px;
+    top: 5px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.three_2 {
+    left: 169px;
+    top: 144px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.six_2 {
+    left: 341px;
+    top: 144px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.nine_2 {
+    left: 514px;
+    top: 142px;
+}
+
+.unit_3_lesson_4 .exercise_4 .input_fild.zero_3 {
+    left: 0;
+    top: 280px;
+}
+
+.unit_3_lesson_4 .exercise_4 .input_fild.tow_3 {
+    left: 111px;
+    top: 279px;
+}
+
+.unit_3_lesson_4 .exercise_4 .input_fild.four_3 {
+    left: 226px;
+    top: 280px;
+}
+
+.unit_3_lesson_4 .exercise_4 .input_fild.six_3 {
+    left: 341px;
+    top: 282px;
+}
+
+.unit_3_lesson_4 .exercise_4 .input_fild.eight_3 {
+    left: 455px;
+    top: 280px;
+}
+
+.unit_3_lesson_4 .exercise_4 .input_fild.ten_3 {
+    left: 565px;
+    top: 281px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild.ten_3 input {
+    width: 60px;
+}
+.unit_3_lesson_4 .exercise_4 .input_fild input {
+    width: 36px;
+    height: 33px;
+    border: none;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+/********************** unit_3_lesson_5 .exercise_2 ********************/
+/********************** unit_3_lesson_5 .exercise_2 ********************/
+
+.unit_3_lesson_5 .exercise2 img {width: 100%; max-width: 100%;}
+.unit_3_lesson_5 .exercise2 .header_part {width: 100%; height: 90px; float: left; position: relative;}
+.unit_3_lesson_5 .exercise2 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+
+.unit_3_lesson_5 .exercise2 .right_word_text {width: 150px; float: left; margin-top: 30px;}
+.unit_3_lesson_5 .exercise2 .navbar { width: 100%; height: 100px; position: relative; float: left; top: -20px;}
+.unit_3_lesson_5 .exercise2 .three_box_number {
+    width: 50%;
+    /* float: left; */
+    /* height: 100px; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    position: relative;
+    /* bottom: 30px; */
+    margin: auto;
+    left: 200px;
+}
+.unit_3_lesson_5 .exercise2 .main_box .ball{ width: 85%; margin: auto; text-align: center; }
+.unit_3_lesson_5 .exercise2 .main_box .ball img{ width: 100%; }
+.unit_3_lesson_5 .exercise2 .text_area {width: 50%; float: left;}
+.unit_3_lesson_5.exercise2 .number_area {width: 17%;float: left; margin-left: 10px;}
+.unit_3_lesson_5 .text_area.spiker_icon.Zoom {width: 60px;}
+.unit_3_lesson_5 .exercise2 .bottom_border:after {background: url(../../images/unit1/lesson_1/exercise_2/horizontal_line.png) right top; width: 100%;height: 44px; position: absolute; content: ''; left: 0; background-repeat: no-repeat; bottom: -7px; background-size: 100%;}
+.unit_3_lesson_5 .exercise2 .second_use .left_pointer_img {top: -47px; left: 0;}
+.unit_3_lesson_5 .exercise2 .main_box {width: 100%; height: auto; position: relative; float: left; top: -47px;}
+.unit_3_lesson_5 .exercise2 .text_area_fill {width: 60%; float: left;}
+.unit_3_lesson_5 .exercise2 .input_area_number {width: 50%;float: left;}
+.unit_3_lesson_5 .exercise2 .input-box {width: 85%; margin: auto;}
+.unit_3_lesson_5 .exercise2 .input-num-box {width: 50%; float: left;}
+.unit_3_lesson_5 .exercise2input#nine_number {width: 100%;}
+.unit_3_lesson_5 .exercise2 .input-num-box input{width: 100%;}
+.unit_3_lesson_5 .exercise2 .input-text-box {width: 50%; float: left;}
+.unit_3_lesson_5 .exercise2 input#nine_text {width: 100%;}
+.unit_3_lesson_5 .exercise2 .input-num-box input {width: 100%; border-left: none; border-right: none; height: 50px; text-align: center;}
+.unit_3_lesson_5 .exercise2 .input-text-box input {width: 100%; border-left: none; border-right: none; height: 50px; text-align: center;}
+
+
+/********************** unit_3_lesson_1 .exercise_2 End ********************/

@@ -1,0 +1,12 @@
+﻿/* @font-face kit by Fonts2u (https://fonts2u.com) */ 
+@font-face {font-family:"Cartwheel";src:url("Cartwheel.eot?") format("eot"),url("Cartwheel.woff") format("woff"),url("Cartwheel.ttf") format("truetype"),url("Cartwheel.svg#Cartwheel") format("svg");font-weight:normal;font-style:normal;}
+
+
+@font-face {
+    font-family: 'quicksanddash';
+    src: url('data/assets/fonts/quicksand/quicksand_dash-webfont.woff2') format('woff2'),
+         url('data/assets/fonts/quicksand/quicksand_dash-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
