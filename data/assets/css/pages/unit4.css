@@ -156,10 +156,10 @@
 /********************** unit_4_lesson_3 .exercise_3 Start ********************/
 .unit_4_lesson_3 .exercise3 .header_text{max-width: 98%;}
 .unit_4_lesson_3 .exercise3 .exercise_3_main{ width: 100%; position: relative; float: left; height: 100%; }
-.unit_4_lesson_3 .exercise3 .bg_div{ background: url(../../images/unit4/lession_1/exercise_3/background.png) center center; width: 100%; height: 100%; background-repeat: no-repeat; background-size: cover;}
+.unit_4_lesson_3 .exercise3 .bg_div{ background: url(../../images/unit4/lession_3/exercise_3/background.png) center center; width: 100%; height: 100%; background-repeat: no-repeat; background-size: cover;}
 
 .unit_4_lesson_3 .exercise3 .left_dreg_drop_area{width: 50%; float: left; height: 100%;}
-.unit_4_lesson_3 .exercise3 .drop_Box {width: 310px; height: 172px; background: url(../../images/unit4/lession_1/exercise_3/10_blank_box.png) center center; background-size: 100%; background-repeat: no-repeat;  position: relative; top: 0px; left: 17px; float: left; margin-top: 20px;}
+.unit_4_lesson_3 .exercise3 .drop_Box {width: 310px; height: 172px; background: url(../../images/unit4/lession_3/exercise_3/10_blank_box.png) center center; background-size: 100%; background-repeat: no-repeat;  position: relative; top: 0px; left: 17px; float: left; margin-top: 20px;}
 .unit_4_lesson_3 .exercise3 .dreg_area { width: 100%; float: left; height: auto; display: flex; align-items: center; justify-content: left; position: relative; left: 17px; top: 10px;}
 
 .unit_4_lesson_3 .exercise3 .number_box {margin: 0px; width: 70px;}
@@ -171,7 +171,7 @@
 .unit_4_lesson_3 .exercise3 .text_box img{width: 100%;}
 
 .unit_4_lesson_3 .exercise3 .right_dreg_drop_area{width: 50%; float: left; height: 100%;}
-.unit_4_lesson_3 .exercise3 .right_dreg_drop_area .drop_Box { width: 70%; height: 172px; background: url(../../images/unit4/lession_1/exercise_3/10_blank_box.png) center center; background-size: 100%; background-repeat: no-repeat; position: relative; top: 0px; left: 37px; margin-top: 20px;}
+.unit_4_lesson_3 .exercise3 .right_dreg_drop_area .drop_Box { width: 70%; height: 172px; background: url(../../images/unit4/lession_3/exercise_3/10_blank_box.png) center center; background-size: 100%; background-repeat: no-repeat; position: relative; top: 0px; left: 37px; margin-top: 20px;}
 .unit_4_lesson_3 .exercise3 .right_dreg_drop_area .dreg_area { width: 100%; float: left; height: auto; display: flex; align-items: center; justify-content: left; position: relative; top: 10px; left: 37px;}
 
 .unit_4_lesson_3 .exercise3 .right_dreg_drop_area .number_box {margin: 0px; width: 70px;}
@@ -204,5 +204,5 @@
 .unit_4_lesson_3 .exercise4 .match_box .right_area .match_item_left{float: right;}
 .unit_4_lesson_3 .exercise4 .left_area .clikBox {width: 20px;cursor: pointer;height: 20px;border-radius: 50%;position: absolute;right: 0px;top: 20px;}
 .unit_4_lesson_3 .exercise4 .right_area .clikBox {width: 20px;cursor: pointer;height: 20px;border-radius: 50%;position: absolute;left: 0px;top: 20px;}
-.unit_4_lesson_3 .exercise4 .bottom_border:after {background: #fff url(../../images/unit1/lesson_1/exercise_2/horizontal_line.png) right top;width: 100%;height: 44px;position: absolute;content: '';left: 0;background-repeat: no-repeat;bottom: -33px;background-size: 100%;}
+.unit_4_lesson_3 .exercise4 .bottom_border:after {background: #fff url(../../images/unit1/lesson_3/exercise_2/horizontal_line.png) right top;width: 100%;height: 44px;position: absolute;content: '';left: 0;background-repeat: no-repeat;bottom: -33px;background-size: 100%;}
 /********************** unit_4_lesson_3 .exercise_4 End ********************/
