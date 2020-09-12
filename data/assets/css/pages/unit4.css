@@ -22,8 +22,6 @@
 
 
 /********************** unit_3_lesson_1 .exercise_2 Start ********************/
-.unit_4_lesson_1 .exercise2 .right_pointer_img {position: relative;width: 326px;height: 94px;top: -10px;z-index: 9;float: right; text-align: right;}
-.unit_4_lesson_1 .exercise2 .right_pointer_img img{width: auto;}
 .unit_4_lesson_1 .exercise2 .two_box_number {width: 50%;float: left;height: 100px;display: flex;align-items: center;justify-content: center;position: relative;bottom: 2px;}
 .unit_4_lesson_1 .exercise2 .navbar {width: 100%;height: 100px;position: relative;float: left;}
 .unit_4_lesson_1 .exercise2 .sixteenImage{width: 100%;float: left;}
@@ -32,11 +30,13 @@
 .unit_4_lesson_1 .exercise2 .seventeenImage img{width: 50%;float: left; max-height: 70px;}
 .unit_4_lesson_1 .exercise2 .seventeenImage img:last-child{float:none;margin: 0px auto;}
 
-.unit_4_lesson_1 .exercise2 .text_area_fill{width: 100%;float: left;}
+.unit_4_lesson_1 .exercise2 .text_area_fill{width: 90%;float: left;margin-left:5%;}
+.unit_4_lesson_1 .exercise2 .input_area_number input {font-family: 'quicksanddash';width: 100%;height: 60px;text-align: left;border-top: 1px solid #000;border-bottom: 1px solid #000;font-size: 45px;border-right: none;letter-spacing: 25px;padding: 0 0 0 25px;position: relative;padding-top: 5px;background: transparent;border: none;}
 .unit_4_lesson_1 .exercise2 .input_area_number .placeholder{font-family: 'quicksanddash';width: 100%;height: 60px;text-align: left;border-top: 1px solid #000;border-bottom: 1px solid #000;font-size: 45px;border-right: none;letter-spacing: 25px;padding: 0 0 0 25px;position: absolute;color: #ccc;opacity: 0.5;padding-top: 0px;background: url('../../images/globle/input_bg.png');}
+.unit_4_lesson_1 .exercise2 .input_area_text input{width: 100%;height: 60px;text-align: left;background: transparent;position: relative;font-size: 45px;border-right: none;letter-spacing: 25px;padding: 0 0 0 24px;border: honeydew;font-family: 'quicksanddash';}
 .unit_4_lesson_1 .exercise2 .input_area_text .placeholder {font-family: 'quicksanddash';width: 100%;height: 60px;text-align: left;border-top: 1px solid #000;border-bottom: 1px solid #000;font-size: 45px;border-right: none;letter-spacing: 25px;padding: 0 0 0 25px;position: absolute;color: #ccc;opacity: 0.5;padding-top: 0px;background: url('../../images/globle/input_bg.png');}
 .unit_4_lesson_1 .exercise2 .text_area.Zoom {width: 45%; float: left;}
-.unit_4_lesson_1 .exercise2 .text_area.spiker_icon.Zoom {width: 60px;}
+.unit_4_lesson_1 .exercise2 .text_area.spiker_icon.Zoom {width: 60px;margin-right: 5px;}
 .unit_4_lesson_1 .exercise2 .two_box_number:last-child img{min-height:65px;}
 .unit_4_lesson_1 .exercise2 .infoText{color:#de1d13;font-size: 14px;font-family: 'riffic', Arial, Helvetica, sans-serif; text-align: center;width: 100%;float: left;margin: 10px 0px 0px 0px;}
 /********************** unit_3_lesson_1 .exercise_2 End ********************/
@@ -71,6 +71,7 @@
 .unit_4_lesson_1 .exercise3 .right_dreg_drop_area .icon_box img{width: 100%;}
 .unit_4_lesson_1 .exercise3 #triangles {top: 0 !important; left: 0 !important; float: left; width: 50px; cursor: pointer;}
 .unit_4_lesson_1 .exercise3 .right_dreg_drop_area .text_box img{width: 100%;}
+.unit_4_lesson_1 .exercise3 .botton_box{bottom: 0px;right: 8px;}
 /********************** unit_3_lesson_1 .exercise_3 End ********************/
 
 
@@ -79,9 +80,9 @@
 .unit_4_lesson_1 .exercise4 .right_pointer_img {position: relative;width: 326px;height: 94px;top: -10px;z-index: 9;float: right; text-align: right;}
 .unit_4_lesson_1 .exercise4 .right_pointer_img img{width: auto;}
 .unit_4_lesson_1 .exercise4 .two_box_number {width: 50%;float: left;display: flex;align-items: center;justify-content: center;position: relative;bottom: 2px;}
-.unit_4_lesson_1 .exercise4 .navbar {width: 100%;position: relative;float: left;margin: 15px 0px 20px 0px;padding: 0px 0px 10px 0px;}
+.unit_4_lesson_1 .exercise4 .navbar {width: 100%;position: relative;float: left;margin: 15px 0px 20px 0px;padding: 0px 0px 20px 0px;}
 .unit_4_lesson_1 .exercise4 .two_box_number .image_area{width: 75%;margin:0px auto;}
-.unit_4_lesson_1 .exercise4 .match_box{width: 100%;float: left;padding: 10px 10% 0px 10%;margin: 0px 0px 0px 0px; background:#fff;}
+.unit_4_lesson_1 .exercise4 .match_box{width: 100%;float: left;padding: 20px 12% 0px 10%;margin: 0px 0px 0px 0px; background:#fff;}
 .unit_4_lesson_1 .exercise4 .match_box img{max-height: 65px;width: auto;}
 .unit_4_lesson_1 .exercise4 .match_box .left_area{float: left;width:70%;}
 .unit_4_lesson_1 .exercise4 .match_box .right_area{float: right; width: 30%;}
@@ -91,15 +92,18 @@
 .unit_4_lesson_1 .exercise4 .match_box .right_area .match_item_left{float: right;}
 .unit_4_lesson_1 .exercise4 .left_area .clikBox {width: 20px;cursor: pointer;height: 20px;border-radius: 50%;position: absolute;right: 0px;top: 20px;}
 .unit_4_lesson_1 .exercise4 .right_area .clikBox {width: 20px;cursor: pointer;height: 20px;border-radius: 50%;position: absolute;left: 0px;top: 20px;}
-.unit_4_lesson_1 .exercise4 .bottom_border:after {
-    background: #fff url(../../images/unit1/lesson_1/exercise_2/horizontal_line.png) right top;
-    width: 100%;
-    height: 44px;
-    position: absolute;
-    content: '';
-    left: 0;
-    background-repeat: no-repeat;
-    bottom: -33px;
-    background-size: 100%;
-}
+.unit_4_lesson_1 .exercise4 .bottom_border:after {background: #fff url(../../images/unit1/lesson_1/exercise_2/horizontal_line.png) right top;width: 100%;height: 44px;position: absolute;content: '';left: 0;background-repeat: no-repeat;bottom: -33px;background-size: 100%;}
 /********************** unit_3_lesson_1 .exercise_4 End ********************/
+
+
+/********************** unit_3_lesson_2 .exercise_1 Start ********************/
+.unit_4_lesson_2 .header_part{height:70px;}
+.unit_4_lesson_2 .exercise1 .number_line{width:96%;float:left;margin: 0px 2% 10px 2%;}
+.unit_4_lesson_2 .exercise1 .border{width:100%;float:left;margin:0px 0px 10px 0px;}
+.unit_4_lesson_2 .exercise1 .border img{width:90%; margin:0px 5%;}
+.unit_4_lesson_2 .exercise1 .lessmore_box{display:flex;width:100%;float:left;}
+.unit_4_lesson_2 .exercise1 .lessmore_box > div{width: 400px; text-align:center;}
+.unit_4_lesson_2 .exercise1 .lessmore_box > div img{width: auto;max-width: 80%;}
+.unit_4_lesson_2 .exercise1 .lessmore_box > div:nth-child(2) img{max-width: 100%;}
+.unit_4_lesson_2 .exercise1 .lessmore_box > div .Zoom{margin:10px 0px;}
+/********************** unit_3_lesson_2 .exercise_1 End ********************/
