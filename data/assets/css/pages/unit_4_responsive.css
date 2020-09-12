@@ -1,10 +1,13 @@
 @media (max-width: 767px) {
-/********************** unit_3_lesson_2 .exercise_2 ********************/
+/********************** unit_4_lesson_2 .exercise_2 ********************/
 .unit_4_lesson_1 .exercise4 .header_text{margin-left: 2%;}
 .unit_4_lesson_2 .exercise3 .header_part{height: 50px;}
 .unit_4_lesson_2 .exercise4 .header_part{height: 50px;}
-  /********************** unit_3_lesson_3 .exercise_4 ********************/
+  /********************** unit_4_lesson_3 .exercise_4 ********************/
 
+/********************** unit_4_lesson_4 .exercise_3 Start ********************/
+.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image{height: auto;}
+/********************** unit_4_lesson_4 .exercise_3 End ********************/
 }
 
 @media (max-width: 480px) {
@@ -57,6 +60,32 @@
 .unit_4_lesson_2 .exercise4 .header_part{height: auto;}
 .unit_4_lesson_2 .exercise4 .number_line .text_box {padding:2px;font-size:18px; bottom: 10px; height: 20px;}
 /********************** unit_4_lesson_3 .exercise_4 End ********************/
+
+/********************** unit_4_lesson_4 .exercise_2 Start ********************/
+.unit_4_lesson_4 .exercise2 .header_part{height: auto;}
+.unit_4_lesson_4 .exercise2 .topSection,
+.unit_4_lesson_4 .exercise2 .bottomSection{height: auto;}
+.unit_4_lesson_4 .exercise2 .topSection:after{bottom: -35px;}
+.unit_4_lesson_4 .exercise2 .topSection input,
+.unit_4_lesson_4 .exercise2 .bottomSection input{width: 40px;height: 40px; font-size:25px;}
+.unit_4_lesson_4 .exercise2 .bottomSection .ballonBox,
+.unit_4_lesson_4 .exercise2 .bottomSection .antBox{width: 100%;padding:10px 0px;}
+.unit_4_lesson_4 .exercise2 .botton_box{bottom: 43px;}
+/********************** unit_4_lesson_4 .exercise_2 End ********************/
+
+/********************** unit_4_lesson_4 .exercise_3 Start ********************/
+.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image{height: auto;}
+.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image .Zoom:first-child{left: 22%;}
+.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image .Zoom:nth-child(2){left: 38%; }
+.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image .Zoom:nth-child(3){left: 52%;}
+.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image .Zoom:nth-child(4){left: 67%; }
+.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image .Zoom:last-child{left: 81%;}
+/********************** unit_4_lesson_4 .exercise_3 End ********************/
+
+/********************** unit_4_lesson_4 .exercise_4 Start ********************/
+.unit_4_lesson_4 .exercise4 .header_part{height: auto;}
+/********************** unit_4_lesson_4 .exercise_4 End ********************/
+
 }
 
 
