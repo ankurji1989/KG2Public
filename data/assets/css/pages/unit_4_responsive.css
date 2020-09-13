@@ -33,13 +33,14 @@
 
 /********************** unit_4_lesson_1 .exercise_2 ********************/
 .unit_4_lesson_1 .exercise2 .header_part{ height: auto;}
+.unit_4_lesson_1 .exercise2 .header_part img{width: auto;}
 .unit_4_lesson_1 .exercise2 .navbar{height: auto;}
 .unit_4_lesson_1 .exercise2 .two_box_number {width: 100%;}
 .unit_4_lesson_1 .exercise2 .sixteenImage img{width: 50%;}
 .unit_4_lesson_1 .exercise2 .input_area_number, .exercise2 .input_area_text{width: 100%;}
 .unit_4_lesson_1 .exercise2 .seventeenImage img {width:100%}
 .unit_4_lesson_1 .exercise2 .seventeenImage img:last-child{width: 88%;}
-.unit_4_lesson_1 .exercise2 .text_area_fill{margin:0px 0px 10px 0px;}
+.unit_4_lesson_1 .exercise2 .text_area_fill{margin:0px 0px 10px 0px;width:100%; background: #fff;;}
 /********************** unit_4_lesson_1 .exercise_2 End ********************/
 
 /********************** unit_4_lesson_1 .exercise_3 Start ********************/
