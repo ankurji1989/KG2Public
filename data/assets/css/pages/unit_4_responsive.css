@@ -74,7 +74,7 @@
 /********************** unit_4_lesson_4 .exercise_2 End ********************/
 
 /********************** unit_4_lesson_4 .exercise_3 Start ********************/
-.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image{height: auto;}
+.unit_4_lesson_4 .exercise3 .bus_image_box .bus_image{height: auto;} 
 .unit_4_lesson_4 .exercise3 .bus_image_box .bus_image .Zoom:first-child{left: 22%;}
 .unit_4_lesson_4 .exercise3 .bus_image_box .bus_image .Zoom:nth-child(2){left: 38%; }
 .unit_4_lesson_4 .exercise3 .bus_image_box .bus_image .Zoom:nth-child(3){left: 52%;}
@@ -139,4 +139,22 @@
   @media only screen and (max-height: 414px) and (max-width: 823px) {
     .unit_4_lesson_3 .exercise4 .header_text{margin-left: 2%;}
   }
+  
+
+
+  @media (max-width: 480px) {
+    /********************** unit_4_lesson_5 .exercise_1 ********************/
+    .unit_4_lesson_5 .exercise1 .dual_image_box{height: 164px;}
+
+
+/********************** unit_4_lesson_5 .exercise_1 ********************/
+    .unit_4_lesson_5 .exercise2 .sixteenImage img{margin-top: -33px;}
+    .unit_4_lesson_5 .exercise2 .input_area_number{width: 100%;margin-bottom: 4px;}
+
+    /********************** unit_4_lesson_5 .exercise_1 ********************/
+    .unit_4_lesson_5 .exercise3 .table_area{width: 93%;margin-left: 15px;margin-top: 100px;}
+    .unit_4_lesson_5 .exercise3 .twenty img{margin: 0px;width: 156px;}
+    .unit_4_lesson_5 .exercise3 .twenty{margin: 0px 0px 29px 143px;}
+  }
+
   

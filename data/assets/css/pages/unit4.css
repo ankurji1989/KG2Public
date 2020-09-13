@@ -337,4 +337,152 @@
 .unit_4_lesson_4 .exercise4{background:#e3edd3;}
 .unit_4_lesson_4 .exercise4 .header_part{height:40px;}
 .unit_4_lesson_4 .exercise4 .addCircleBox{width: 100%;float: left;margin:15px 0px;background:#fff;}
-/********************** unit_4_lesson_4 .exercise_4 End ********************/
+/********************** unit_4_lesson_4 .exercise_4 End ******************** /
+
+
+/********** Unit 2 exercise 3 Start ***********/
+
+.unit_4_lesson_5 .exercise3 {
+    background: #fff;
+}
+.unit_4_lesson_5 .exercise3 {background: url(../../images/unit4/lession_5/exercise_3/bg.jpg)}
+
+.unit_4_lesson_5 .exercise3 img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.unit_4_lesson_5 .exercise3 .header_part {
+    width: 100%;
+    height: 90px;
+    float: left;
+    position: absolute;
+}
+
+.unit_4_lesson_5 .exercise3 .left_pointer_img {
+    position: relative;
+    width: 326px;
+    height: 94px;
+    left: -10px;
+    /*top: -10px;*/
+    z-index: 9;
+    float: left;
+}
+
+.unit_4_lesson_5 .exercise3 .right_word_text {
+    width: 150px;
+    float: left;
+    margin-top: 30px;
+}
+
+.unit_4_lesson_5 .exercise3 .color_area1 {
+    width: 100%;
+    top: 0px;
+    position: relative;
+    float: left;
+}
+
+.unit_4_lesson_5 .exercise3 .img_area {
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+.unit_4_lesson_5 .exercise3 .img_area img {
+    width: 100%;
+    height: 300px
+}
+
+.unit_4_lesson_5 .exercise3 .table_area {
+    width: 55%;
+    margin-top: 160px;
+    margin-left: 16px;
+}
+
+.unit_4_lesson_5 .exercise3 .tablebox {
+    width: 100%;
+    height: 88px;
+    float: left;
+    border: 2px solid #000;
+    margin-bottom: 2px;
+    border-radius: 0px !important;
+}
+.unit_4_lesson_5 .exercise3 .mar{margin-top: 15px;}
+
+.unit_4_lesson_5 .exercise3 .table_dot {
+    width: 20%;
+    cursor: pointer;
+    float: left;
+    height: 84px;
+    border-right: 2px solid #000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+}
+.unit_4_lesson_5 .exercise3 .twenty{margin: 282px 0px 0px 550px;}
+.unit_4_lesson_5 .exercise3 .twenty img{width: 295px;}
+.unit_4_lesson_5 .exercise3 .table_dot.table_dot1 {
+    width: 10%
+}
+
+.unit_4_lesson_5 .exercise3 .table_dot img {
+    width: 70%;
+    margin-top: 0px;
+}
+
+.unit_4_lesson_5 .exercise3 .header_part.right_header {
+    right: 0;
+    float: right;
+    text-align: right;
+}
+
+.unit_4_lesson_5 .exercise3 .right_header .left_pointer_img {
+    left: inherit;
+    right: 35px;
+    position: absolute;
+}
+
+.unit_4_lesson_5 .exercise3 .middle_header .left_pointer_img {
+    left: 0;
+}
+
+.unit_4_lesson_5 .exercise3 .img_part {
+    width: 60%;
+    float: left;
+    text-align: center;
+}
+
+.unit_4_lesson_5 .exercise3 .img_part img {
+    width: 64%;
+}
+
+.unit_4_lesson_5 .exercise3 .fill_area {
+    width: 40%;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+}
+
+.unit_4_lesson_5 .exercise3 .img_box {
+    width: 70%;
+    float: left;
+    text-align: center;
+}
+
+.unit_4_lesson_5 .exercise3 .img_box img {
+    width: 60%;
+}
+
+.unit_4_lesson_5 .exercise3 .yellow {
+    background-color: #ffef10;
+}
+
+.unit_4_lesson_5 .exercise3 .border_none {
+    border-right: none;
+    border-radius: 0 10px 10px 0;
+}
+
