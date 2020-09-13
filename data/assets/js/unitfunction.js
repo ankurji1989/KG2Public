@@ -2865,8 +2865,33 @@ var unitFn = {
                     $(".unit_4_lesson_1 .exercise4 .feedback_box, .unit_4_lesson_1 .exercise4 .wrong_feedback, .unit_4_lesson_1 .exercise4 .overlay").hide();
                 });
 
+                /*************** match ************/
+                var line_start = '';
+                var line_end = '';
+                var totalSelectedLine = 0;
+                $(".clikBox").click(function(){
+                    if($(this).hasClass('leftMatch')) {
+                        line_start = $(this).data('id');
+                    } else {
+                        line_end = $(this).data('id');
+                    }
+
+                    totalSelectedLine = $(".match_box .line:visible").length;
+
+                    $(".match_box .line").each(function(){
+                        if($(this).data('id') === line_start + '_' + line_end && totalSelectedLine < 2) {
+                            $(this).show();
+                            line_start = '';
+                            line_end = '';
+                        }
+                    })
+                });
+
                 $(".unit_4_lesson_1 .exercise4 .reload").off("click").on("click", function() {
                     $(".unit_4_lesson_1 .exercise4 .two_box_number .image_area .redCircle").removeClass('selected');
+                    $(".match_box .line").hide();
+                    line_start = '';
+                    line_end = '';
                     seventeenCircle = false;
                     sixteenCircle = false;
                     isUserCorrect = false;
