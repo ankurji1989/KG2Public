@@ -1,9 +1,16 @@
 @media (max-width: 767px) {
 /********************** unit_4_lesson_2 .exercise_2 ********************/
 .unit_4_lesson_1 .exercise4 .header_text{margin-left: 2%;}
+
+.unit_4_lesson_1 .exercise4 .match_box .line.line_1{top: 25%;left: 37%;}
+.unit_4_lesson_1 .exercise4 .match_box .line.line_2{top: 75%;left: 40%;width: 41%;}
+.unit_4_lesson_1 .exercise4 .match_box .line.line_3{top: 57%;left: 47%;width: 51%;transform: rotate(31deg);}
+.unit_4_lesson_1 .exercise4 .match_box .line.line_4{top: 56%;left: 49%;width: 39%;transform: rotate(-41deg);}
+
 .unit_4_lesson_2 .exercise3 .header_part{height: 50px;}
 .unit_4_lesson_2 .exercise4 .header_part{height: 50px;}
-  /********************** unit_4_lesson_3 .exercise_4 ********************/
+
+/********************** unit_4_lesson_3 .exercise_4 ********************/
 
 /********************** unit_4_lesson_4 .exercise_3 Start ********************/
 .unit_4_lesson_4 .exercise3 .bus_image_box .bus_image{height: auto;}
@@ -59,6 +66,11 @@
 /********************** unit_4_lesson_3 .exercise_4 Start ********************/
 .unit_4_lesson_2 .exercise4 .header_part{height: auto;}
 .unit_4_lesson_2 .exercise4 .number_line .text_box {padding:2px;font-size:18px; bottom: 10px; height: 20px;}
+
+.unit_4_lesson_1 .exercise4 .match_box .line.line_1{top: 25%;left: 37%;}
+.unit_4_lesson_1 .exercise4 .match_box .line.line_2{top: 75%;left: 40%;width: 41%;}
+.unit_4_lesson_1 .exercise4 .match_box .line.line_3{top: 57%;left: 47%;width: 51%;transform: rotate(31deg);}
+.unit_4_lesson_1 .exercise4 .match_box .line.line_4{top: 56%;left: 49%;width: 39%;transform: rotate(-41deg);}
 /********************** unit_4_lesson_3 .exercise_4 End ********************/
 
 /********************** unit_4_lesson_4 .exercise_2 Start ********************/
