@@ -167,7 +167,7 @@
 
 
 /********************** unit_4_lesson_5 .exercise_1 ********************/
-    .unit_4_lesson_5 .exercise2 .sixteenImage img{margin-top: -33px;}
+    .unit_4_lesson_5 .exercise2 .sixteenImage img{margin-top: 0px;}
     .unit_4_lesson_5 .exercise2 .input_area_number{width: 100%;margin-bottom: 4px;}
 
     /********************** unit_4_lesson_5 .exercise_1 ********************/
@@ -175,6 +175,11 @@
     .unit_4_lesson_5 .exercise3 .twenty img{margin: 0px;width: 156px;}
     .unit_4_lesson_5 .exercise3 .twenty{margin: 0px 0px 29px 143px;}
     .unit_4_lesson_5 .exercise3 .botton_box{bottom: 43px;}
+
+    /********************** unit_4_lesson_5 .exercise_4 ********************/
+    .unit_4_lesson_5 .exercise4 .line_draw_area,
+    .unit_4_lesson_5 .exercise4 .line_draw_area .lineImage {height: auto; margin-bottom: 20px;}
+    .unit_4_lesson_5 .exercise4 .line_draw_area .lineImage img{position: static;}    
   }
 
   
