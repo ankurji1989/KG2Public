@@ -134,11 +134,11 @@
 .unit_4_lesson_3 .exercise2 .navbar {width: 100%;height: 100px;position: relative;float: left;}
 .unit_4_lesson_3 .exercise2 .sixteenImage{width: 100%;float: left;}
 .unit_4_lesson_3 .exercise2 .sixteenImage img{float: left;margin-top: 7px;}
-.unit_4_lesson_3 .exercise2 .seventeenImage{width: 100%;float: left;text-align: center;}
+.unit_4_lesson_3 .exercise2 .seventeenImage{width: 100%;float: left;text-align: center; background: #fff;}
 .unit_4_lesson_3 .exercise2 .seventeenImage img{float: left; max-height: 150px;}
 .unit_4_lesson_3 .exercise2 .seventeenImage img:last-child{float:none;margin: 0px auto;}
 
-.unit_4_lesson_3 .exercise2 .text_area_fill{width: 90%;float: left;margin-left:5%;}
+.unit_4_lesson_3 .exercise2 .text_area_fill{width: 90%;float: left;margin-left:5%; background: #fff;}
 .unit_4_lesson_3 .exercise2 .input_area_number input {font-family: 'quicksanddash';width: 100%;height: 60px;text-align: left;border-top: 1px solid #000;border-bottom: 1px solid #000;font-size: 45px;border-right: none;letter-spacing: 25px;padding: 0 0 0 25px;position: relative;padding-top: 5px;background: transparent;border: none;}
 .unit_4_lesson_3 .exercise2 .input_area_number .placeholder{font-family: 'quicksanddash';width: 100%;height: 60px;text-align: left;border-top: 1px solid #000;border-bottom: 1px solid #000;font-size: 45px;border-right: none;letter-spacing: 25px;padding: 0 0 0 25px;position: absolute;color: #ccc;opacity: 0.5;padding-top: 0px;background: url('../../images/globle/input_bg.png');}
 .unit_4_lesson_3 .exercise2 .input_area_text input{width: 100%;height: 60px;text-align: left;background: transparent;position: relative;font-size: 45px;border-right: none;letter-spacing: 25px;padding: 0 0 0 24px;border: honeydew;font-family: 'quicksanddash';}
@@ -234,8 +234,9 @@
 
 
 /********************** unit_4_lesson_5 .exercise_2 Start ********************/
-.unit_4_lesson_5 .exercise2 .two_box_number {left: 24%;width: 50%;float: left;height: 100px;display: flex;align-items: center;justify-content: center;position: relative;bottom: 2px;}
-.unit_4_lesson_5 .exercise2 .navbar {width: 100%;height: 100px;position: relative;float: left;}
+.unit_4_lesson_5 .exercise2 .header_part img{width: auto;}
+.unit_4_lesson_5 .exercise2 .two_box_number {left: 24%;width: 50%;float: left;display: flex;align-items: center;justify-content: center;position: relative;bottom: 2px;}
+.unit_4_lesson_5 .exercise2 .navbar {width: 100%;height: auto;position: relative;float: left;margin:0px 0px 15px 0px;padding:0px 0px 15px 0px;}
 .unit_4_lesson_5 .exercise2 .sixteenImage{width: 100%;float: left;}
 .unit_4_lesson_5 .exercise2 .sixteenImage img{width:100%;float: left; max-height: 245px;margin-top: 25px;}
 .unit_4_lesson_5 .exercise2 .seventeenImage{width: 100%;float: left;text-align: center;}
@@ -249,7 +250,6 @@
 .unit_4_lesson_5 .exercise2 .input_area_text .placeholder {font-family: 'quicksanddash';width: 100%;height: 60px;text-align: left;border-top: 1px solid #000;border-bottom: 1px solid #000;font-size: 45px;border-right: none;letter-spacing: 25px;padding: 0 0 0 25px;position: absolute;color: #ccc;opacity: 0.5;padding-top: 0px;background: url('../../images/globle/input_bg.png');}
 .unit_4_lesson_5 .exercise2 .text_area.Zoom {width: 45%; float: left;}
 .unit_4_lesson_5 .exercise2 .text_area.spiker_icon.Zoom {width: 60px;margin-right: 5px;}
-.unit_4_lesson_5 .exercise2 .two_box_number:last-child img{min-height:65px;}
 .unit_4_lesson_5 .exercise2 .infoText{color:#de1d13;font-size: 14px;font-family: 'riffic', Arial, Helvetica, sans-serif; text-align: center;width: 100%;float: left;margin: 10px 0px 0px 0px;}
 /********************** unit_4_lesson_1 .exercise_2 End ********************/
 
