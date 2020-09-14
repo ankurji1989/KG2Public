@@ -3400,7 +3400,40 @@ var unitFn = {
             }
 
             function exerciseFn_4() {
+                var isUserCorrectOne = false;
 
+                $(".unit_4_lesson_5 .exercise4 .dotline_area .dotline").click(function(){
+                    var selectedDot = false;
+                    if($(this).hasClass('line1_dot')){
+                        $(this).addClass('selected');
+                    } else {
+                        if($(this).prev().prev().hasClass('selected')){
+                            $(this).prev().addClass('selected');
+                            $(this).addClass('selected');
+                        }
+                    }
+                });
+
+                $(".unit_4_lesson_5 .exercise4 .submit_btn").on('click', function() {
+                    const selectedDot = $(".unit_4_lesson_5 .exercise4  .dotline_area .dotline.selected").length;
+                    isUserCorrectOne = selectedDot === 20 ?  true : false;
+
+                    if (isUserCorrectOne) {
+                        $(".unit_4_lesson_5 .exercise4 .feedback_box, .unit_4_lesson_5 .exercise4 .overlay, .unit_4_lesson_5 .exercise4 .right_feedback").show();
+                        $(".unit_4_lesson_5 .exercise4 .wrong_feedback").hide();
+                    } else {
+                        $(".unit_4_lesson_5 .exercise4 .feedback_box, .unit_4_lesson_5 .exercise4 .overlay, .unit_4_lesson_5 .exercise4 .wrong_feedback").show();
+                        $(".unit_4_lesson_5 .exercise4 .right_feedback").hide();
+                    }
+                });
+
+                $(".unit_4_lesson_5 .exercise4 .close_popup").off("click").on("click", function() {
+                    $(".unit_4_lesson_5 .exercise4 .feedback_box, .unit_4_lesson_5 .exercise4 .overlay, .unit_4_lesson_5 .exercise4 .wrong_feedback").hide();
+                });
+
+                $(".unit_4_lesson_5 .exercise4 .reload").on('click', function() {
+                    $(".unit_4_lesson_5 .exercise4 .dotline_area .dotline, .unit_4_lesson_5 .exercise4 .dotline_area .singleline").removeClass('selected');
+                });
             }
         }
     },

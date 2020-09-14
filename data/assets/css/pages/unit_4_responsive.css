@@ -177,9 +177,8 @@
     .unit_4_lesson_5 .exercise3 .botton_box{bottom: 43px;}
 
     /********************** unit_4_lesson_5 .exercise_4 ********************/
-    .unit_4_lesson_5 .exercise4 .line_draw_area,
-    .unit_4_lesson_5 .exercise4 .line_draw_area .lineImage {height: auto; margin-bottom: 20px;}
-    .unit_4_lesson_5 .exercise4 .line_draw_area .lineImage img{position: static;}    
+    .unit_4_lesson_5 .exercise4 .header_part{height: auto;}
+    .unit_4_lesson_5 .exercise4 .line_draw_area {background: #fff; margin-bottom: 20px;}
   }
 
   
