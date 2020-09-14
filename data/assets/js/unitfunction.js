@@ -3833,7 +3833,30 @@ var unitFn = {
             }
 
             function exerciseFn_2() {
+                var isUserCorrectOne = false;
+                $(".unit_7_lesson_3 .exercise2 .numberPanel .numberRow > div").click(function(){
+                    $(this).addClass('selected');
+                });
+                $(".unit_7_lesson_3 .exercise2 .submit_btn").on('click', function() {
+                    const selectedDot = $(".unit_7_lesson_3 .exercise2 .numberPanel .numberRow div.selected").length
+                    isUserCorrectOne = selectedDot === 90 ?  true : false;
 
+                    if (isUserCorrectOne) {
+                        $(".unit_7_lesson_3 .exercise2 .feedback_box, .unit_7_lesson_3 .exercise2 .overlay, .unit_7_lesson_3 .exercise2 .right_feedback").show();
+                        $(".unit_7_lesson_3 .exercise2 .wrong_feedback").hide();
+                    } else {
+                        $(".unit_7_lesson_3 .exercise2 .feedback_box, .unit_7_lesson_3 .exercise2 .overlay, .unit_7_lesson_3 .exercise2 .wrong_feedback").show();
+                        $(".unit_7_lesson_3 .exercise2 .right_feedback").hide();
+                    }
+                });
+
+                $(".unit_7_lesson_3 .exercise2 .close_popup").off("click").on("click", function() {
+                    $(".unit_7_lesson_3 .exercise2 .feedback_box, .unit_7_lesson_3 .exercise2 .overlay, .unit_7_lesson_3 .exercise2 .wrong_feedback").hide();
+                });
+
+                $(".unit_7_lesson_3 .exercise2 .reload").on('click', function() {
+                    $(".unit_7_lesson_3 .exercise2 .numberPanel .numberRow div").removeClass('selected');
+                });
             }
 
             function exerciseFn_3() {
