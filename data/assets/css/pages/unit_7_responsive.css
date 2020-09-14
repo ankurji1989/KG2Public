@@ -3,20 +3,42 @@
 
 @media (max-width: 480px) {
 /********************** unit_7_lesson_1 .exercise_1 Start ********************/
+.unit_7_lesson_1 .exercise1 .header_part{height: auto;}
 .unit_7_lesson_1 .exercise1 .counting_box{width: 100%;margin: 0px;}
 .unit_7_lesson_1 .exercise1 .counting_box > div{width: 100%;}
 .unit_7_lesson_1 .exercise1 .counting_box .numberBox .numSound{width:45%;}
 .unit_7_lesson_1 .exercise1 .counting_box .numberBox .numSound img{max-width: 90%;}
 .unit_7_lesson_1 .exercise1 .counting_box .bigImage{display: block; text-align: center;}
 /********************** unit_7_lesson_1 .exercise_1 End ********************/
+
+/********************** unit_7_lesson_1 .exercise_2 Start ********************/
+.unit_7_lesson_1 .exercise2 .header_part{height: auto;}
+.unit_7_lesson_1 .exercise2 .numberPanel .numberRow > div{font-size: 24px;}
+/********************** unit_7_lesson_1 .exercise_2 End ********************/
+
+/********************** unit_7_lesson_1 .exercise_4 Start ********************/
+.unit_7_lesson_1 .exercise4 .header_part{height: auto;}
+.unit_7_lesson_1 .exercise4 .numberPanel .numberRow > div{font-size: 24px;}
+/********************** unit_7_lesson_1 .exercise_4 End ********************/
 }
 
 @media (max-width: 360px) {
   /********************** unit_7_lesson_1 .exercise_1 Start ********************/
+  .unit_7_lesson_1 .exercise1 .header_part{height: auto;}
   .unit_7_lesson_1 .exercise1 .counting_box{width: 100%;margin: 0px;}
   .unit_7_lesson_1 .exercise1 .counting_box > div{width: 100%;}
   .unit_7_lesson_1 .exercise1 .counting_box .numberBox .numSound{width:45%;}
   .unit_7_lesson_1 .exercise1 .counting_box .numberBox .numSound img{max-width: 90%;}
   .unit_7_lesson_1 .exercise1 .counting_box .bigImage{display: block; text-align: center;}
   /********************** unit_7_lesson_1 .exercise_1 End ********************/
+  
+  /********************** unit_7_lesson_1 .exercise_2 Start ********************/
+  .unit_7_lesson_1 .exercise2 .header_part{height: auto;}
+  .unit_7_lesson_1 .exercise2 .numberPanel .numberRow > div{font-size: 18px;}
+  /********************** unit_7_lesson_1 .exercise_2 End ********************/
+
+    /********************** unit_7_lesson_1 .exercise_4 Start ********************/
+    .unit_7_lesson_1 .exercise4 .header_part{height: auto;}
+    .unit_7_lesson_1 .exercise4 .numberPanel .numberRow > div{font-size: 18px;}
+    /********************** unit_7_lesson_1 .exercise_4 End ********************/
 }
