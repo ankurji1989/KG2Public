@@ -31,6 +31,28 @@
 .unit_7_lesson_2 .exercise1 .bottomBox .leftBox:after{background: none;}
 /********************** unit_7_lesson_2 .exercise_1 End ********************/
 
+/********************** unit_7_lesson_2 .exercise_2 Start ********************/
+.unit_7_lesson_2 .exercise2 .box_uper{padding: 54px 113px;}
+.unit_7_lesson_2 .exercise2 .full_box .numSound{top: -5%;right: 39%;}
+.unit_7_lesson_2 .exercise2 .full_box .box1{ margin-bottom: 10px;}
+/********************** unit_7_lesson_2 .exercise_2 Start ********************/
+
+/********************** unit_7_lesson_2 .exercise_3 Start ********************/
+.unit_7_lesson_2 .exercise3 .box_uper{padding: 54px 113px;}
+.unit_7_lesson_2 .exercise3 .full_box .numSound{top: -5%;right: 22%;}
+.unit_7_lesson_2 .exercise3 .full_box .box1{ margin-bottom: 10px;}
+/********************** unit_7_lesson_2 .exercise_3 Start ********************/
+
+/********************** unit_7_lesson_2 .exercise_4 start ********************/
+.unit_7_lesson_2 .exercise4 .bottom_box .left_txt{ width: 100%;}
+.unit_7_lesson_2 .exercise4 .bottom_box .right_txt{ width: 100%;margin-top: 15px;}
+/********************** unit_7_lesson_2 .exercise_4 End ********************/
+
+/********************** unit_7_lesson_2 .exercise_5 start ********************/
+.unit_7_lesson_2 .exercise5 .bottom_box .left_txt{ width: 100%;}
+.unit_7_lesson_2 .exercise5 .bottom_box .right_txt{ width: 100%;margin-top: 15px;}
+/********************** unit_7_lesson_2 .exercise_5 End ********************/
+
 /********************** unit_7_lesson_3 .exercise_1 Start ********************/
 .unit_7_lesson_3 .exercise1 .header_part{height: auto;}
 .unit_7_lesson_3 .exercise1 .counting_box{width: 100%;margin: 0px;}
@@ -78,6 +100,11 @@
 .unit_7_lesson_1 .exercise2 .numberPanel .numberRow > div{font-size: 18px;}
 /********************** unit_7_lesson_1 .exercise_2 End ********************/
 
+/********************** unit_7_lesson_1 .exercise_3 Start ********************/
+.unit_7_lesson_1 .exercise3 .header_part{height: auto;}
+.unit_7_lesson_1 .exercise3 .numberPanel .numberRow > div{font-size: 18px;}
+/********************** unit_7_lesson_1 .exercise_2 End ********************/
+
 /********************** unit_7_lesson_1 .exercise_4 Start ********************/
 .unit_7_lesson_1 .exercise4 .header_part{height: auto;}
 .unit_7_lesson_1 .exercise4 .numberPanel .numberRow > div{font-size: 18px;}
@@ -92,6 +119,28 @@
 .unit_7_lesson_2 .exercise1 .bottomBox > div{padding-top:40%;}
 .unit_7_lesson_2 .exercise1 .bottomBox .leftBox:after{background: none;}
 /********************** unit_7_lesson_2 .exercise_1 End ********************/
+
+/********************** unit_7_lesson_2 .exercise_2 End ********************/
+.unit_7_lesson_2 .exercise2 .full_box .numSound {top: 3%;right: 35%;}
+.unit_7_lesson_2 .exercise2 .full_box .box1{ margin-bottom: 10px;;}
+.unit_7_lesson_2 .exercise2 .box_uper{padding: 90px 55px 0px 55px;}
+/********************** unit_7_lesson_2 .exercise_2 End ********************/
+
+/********************** unit_7_lesson_2 .exercise_3 start ********************/
+.unit_7_lesson_2 .exercise3 .full_box .numSound {top: 3%;right: 12%;}
+.unit_7_lesson_2 .exercise3 .full_box .box1{ margin-bottom: 10px;;}
+.unit_7_lesson_2 .exercise3 .box_uper{padding: 90px 55px 0px 55px;}
+/********************** unit_7_lesson_2 .exercise_3 End ********************/
+
+/********************** unit_7_lesson_2 .exercise_4 start ********************/
+.unit_7_lesson_2 .exercise4 .bottom_box .left_txt{ width: 100%;}
+.unit_7_lesson_2 .exercise4 .bottom_box .right_txt{ width: 100%;margin-top: 15px;}
+/********************** unit_7_lesson_2 .exercise_4 End ********************/
+
+/********************** unit_7_lesson_2 .exercise_5 start ********************/
+.unit_7_lesson_2 .exercise5 .bottom_box .left_txt{ width: 100%;}
+.unit_7_lesson_2 .exercise5 .bottom_box .right_txt{ width: 100%;margin-top: 15px;}
+/********************** unit_7_lesson_2 .exercise_5 End ********************/
 
 /********************** unit_7_lesson_3 .exercise_1 Start ********************/
 .unit_7_lesson_3 .exercise1 .header_part{height: auto;}
