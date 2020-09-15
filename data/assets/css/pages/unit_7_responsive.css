@@ -21,6 +21,16 @@
 .unit_7_lesson_1 .exercise4 .numberPanel .numberRow > div{font-size: 24px;}
 /********************** unit_7_lesson_1 .exercise_4 End ********************/
 
+/********************** unit_7_lesson_2 .exercise_1 Start ********************/
+.unit_7_lesson_2 .exercise1 .header_part{height: auto;}
+.unit_7_lesson_2 .exercise1 .fullBox{height: auto; }
+.unit_7_lesson_2 .exercise1 .topBox{padding: 0px 10px;flex-direction: column;}
+.unit_7_lesson_2 .exercise1 .topBox .numSound{top:0px;}
+.unit_7_lesson_2 .exercise1 .topBox > div{flex-direction: column;padding-top:12%;width: 100%;}
+.unit_7_lesson_2 .exercise1 .bottomBox > div{padding-top:40%;}
+.unit_7_lesson_2 .exercise1 .bottomBox .leftBox:after{background: none;}
+/********************** unit_7_lesson_2 .exercise_1 End ********************/
+
 /********************** unit_7_lesson_3 .exercise_1 Start ********************/
 .unit_7_lesson_3 .exercise1 .header_part{height: auto;}
 .unit_7_lesson_3 .exercise1 .counting_box{width: 100%;margin: 0px;}
@@ -72,6 +82,16 @@
 .unit_7_lesson_1 .exercise4 .header_part{height: auto;}
 .unit_7_lesson_1 .exercise4 .numberPanel .numberRow > div{font-size: 18px;}
 /********************** unit_7_lesson_1 .exercise_4 End ********************/
+
+/********************** unit_7_lesson_2 .exercise_1 Start ********************/
+.unit_7_lesson_2 .exercise1 .header_part{height: auto;}
+.unit_7_lesson_2 .exercise1 .fullBox{height: auto; }
+.unit_7_lesson_2 .exercise1 .topBox{padding: 0px 10px;flex-direction: column;}
+.unit_7_lesson_2 .exercise1 .topBox .numSound{top:0px;}
+.unit_7_lesson_2 .exercise1 .topBox > div{flex-direction: column;padding-top:20%;width: 100%;}
+.unit_7_lesson_2 .exercise1 .bottomBox > div{padding-top:40%;}
+.unit_7_lesson_2 .exercise1 .bottomBox .leftBox:after{background: none;}
+/********************** unit_7_lesson_2 .exercise_1 End ********************/
 
 /********************** unit_7_lesson_3 .exercise_1 Start ********************/
 .unit_7_lesson_3 .exercise1 .header_part{height: auto;}
