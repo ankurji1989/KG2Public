@@ -113,11 +113,31 @@
 /********************** unit_7_lesson_3 .exercise_2 End ********************/
 
 /********************** unit_7_lesson_3 .exercise_3 Start ********************/
-
+.unit_7_lesson_3 .exercise3 img{width: auto;}
+.unit_7_lesson_3 .exercise3 .header_part{width: 100%;height: 55px;float: left;position: relative;}
+.unit_7_lesson_3 .exercise3 .monitorBox{width: 100%;float: left;}
+.unit_7_lesson_3 .exercise3 .monitorBox .imageBox{position: relative;width: 100%; max-width: 680px;margin: 0px auto;}
+.unit_7_lesson_3 .exercise3 .monitorBox .imageBox img{width: 100%;}
+.unit_7_lesson_3 .exercise3 .monitorBox .input_area{position:absolute;top:0px;right:0px;bottom:0px;left:0px;width:100%;}
+.unit_7_lesson_3 .exercise3 .monitorBox .input_area input{position: absolute;width: 9%;height: 12%;border: 0px;color: #d2232a;font-size: 36px;font-weight: 600;font-family: 'riffic', Arial, Helvetica, sans-serif;padding:0px;letter-spacing: 3px;}
+.unit_7_lesson_3 .exercise3 .monitorBox .input_area input.inputbox1{top: 9%;left: 21%;}
+.unit_7_lesson_3 .exercise3 .monitorBox .input_area input.inputbox2{top: 9%;left: 43%;}
+.unit_7_lesson_3 .exercise3 .monitorBox .input_area input.inputbox3{top: 9%;left: 68.5%;}
+.unit_7_lesson_3 .exercise3 .monitorBox .input_area input.inputbox4{top: 38%;left: 24.5%;}
+.unit_7_lesson_3 .exercise3 .monitorBox .input_area input.inputbox5{top: 38%;left: 49%;}
+.unit_7_lesson_3 .exercise3 .monitorBox .input_area input.inputbox6{top: 38%;left: 74%;}
 /********************** unit_7_lesson_3 .exercise_3 End ********************/
 
 /********************** unit_7_lesson_3 .exercise_4 Start ********************/
-
+.unit_7_lesson_3 .exercise4{background:#b7fec6 url(../../images/unit7/lession_3/exercise_4/background.png) center center no-repeat;background-size: cover;}
+.unit_7_lesson_3 .exercise4 img{width: auto;}
+.unit_7_lesson_3 .exercise4 .header_part{width: 100%;height: 55px;float: left;position: relative;}
+.unit_7_lesson_3 .exercise4 .numberPanel{width: 100%; max-width: 720px;margin:0px auto;padding:0px 10px;}
+.unit_7_lesson_3 .exercise4 .numberPanel .numberRow{display: flex; width: 100%;background: #bcbdc0;padding: 0px 1px;}
+.unit_7_lesson_3 .exercise4 .numberPanel .numberRow > div{width:70px; height:40px;font-size: 34px;background: #fff;margin: 2px 2px;display: flex;align-items: center;justify-content: center;font-family: 'riffic', Arial, Helvetica, sans-serif; cursor: pointer; position: relative;}
+.unit_7_lesson_3 .exercise4 .numberPanel .infoPanel{width: 100%;margin: 10px 0px 0px 0px; text-align: center; display: flex;}
+.unit_7_lesson_3 .exercise4 .numberPanel .infoPanel > div{padding:10px;width:150px;}
+.unit_7_lesson_3 .exercise4 .numberPanel .numberRow > div.selected:after{width: 50px;height: 50px;position: absolute;content: '';border: 2px solid #d2232a;border-radius: 50%;}
 /********************** unit_7_lesson_3 .exercise_4 End ********************/
 
 
