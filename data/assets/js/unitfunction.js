@@ -3964,15 +3964,120 @@ var unitFn = {
             }
 
             function exerciseFn_2() {
+                var isUserCorrectOne = false;
+                $(".unit_7_lesson_5 .exercise2 .numberPanel .numberRow > div").click(function(){
+                    $(this).addClass('selected');
+                });
+                $(".unit_7_lesson_5 .exercise2 .submit_btn").on('click', function() {
+                    const selectedDot = $(".unit_7_lesson_5 .exercise2 .numberPanel .numberRow div.selected").length
+                    isUserCorrectOne = selectedDot === 100 ?  true : false;
 
+                    if (isUserCorrectOne) {
+                        $(".unit_7_lesson_5 .exercise2 .feedback_box, .unit_7_lesson_5 .exercise2 .overlay, .unit_7_lesson_5 .exercise2 .right_feedback").show();
+                        $(".unit_7_lesson_5 .exercise2 .wrong_feedback").hide();
+                    } else {
+                        $(".unit_7_lesson_5 .exercise2 .feedback_box, .unit_7_lesson_5 .exercise2 .overlay, .unit_7_lesson_5 .exercise2 .wrong_feedback").show();
+                        $(".unit_7_lesson_5 .exercise2 .right_feedback").hide();
+                    }
+                });
+
+                $(".unit_7_lesson_5 .exercise2 .close_popup").off("click").on("click", function() {
+                    $(".unit_7_lesson_5 .exercise2 .feedback_box, .unit_7_lesson_5 .exercise2 .overlay, .unit_7_lesson_5 .exercise2 .wrong_feedback").hide();
+                });
+
+                $(".unit_7_lesson_5 .exercise2 .reload").on('click', function() {
+                    $(".unit_7_lesson_5 .exercise2 .numberPanel .numberRow div").removeClass('selected');
+                });
             }
 
             function exerciseFn_3() {
+                var isUserCorrectOne = false;
+                var textbox1 = '';
+                var textbox2 = '';
+                var textbox3 = '';
+                var textbox4 = '';
+                var textbox5 = '';
 
+                $(".unit_7_lesson_5 .exercise3 .submit_btn").on('click', function() {
+                    textbox1 = $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox1").val();
+                    textbox2 = $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox2").val();
+                    textbox3 = $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox3").val();
+                    textbox4 = $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox4").val();
+                    textbox5 = $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox5").val();
+                    isUserCorrectOne = textbox1 === '92' && textbox2 === '94' && textbox3 === '96' && textbox4 === '98' && textbox5 === '100' ?  true : false;
+
+                    if (isUserCorrectOne) {
+                        $(".unit_7_lesson_5 .exercise3 .feedback_box, .unit_7_lesson_5 .exercise3 .overlay, .unit_7_lesson_5 .exercise3 .right_feedback").show();
+                        $(".unit_7_lesson_5 .exercise3 .wrong_feedback").hide();
+                    } else {
+                        $(".unit_7_lesson_5 .exercise3 .feedback_box, .unit_7_lesson_5 .exercise3 .overlay, .unit_7_lesson_5 .exercise3 .wrong_feedback").show();
+                        $(".unit_7_lesson_5 .exercise3 .right_feedback").hide();
+                    }
+                });
+
+                $(".unit_7_lesson_5 .exercise3 .close_popup").off("click").on("click", function() {
+                    $(".unit_7_lesson_5 .exercise3 .feedback_box, .unit_7_lesson_5 .exercise3 .overlay, .unit_7_lesson_5 .exercise3 .wrong_feedback").hide();
+                });
+
+                $(".unit_7_lesson_5 .exercise3 .reload").on('click', function() {
+                    $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox1").val('');
+                    $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox2").val('');
+                    $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox3").val('');
+                    $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox4").val('');
+                    $(".unit_7_lesson_5 .exercise3 .text_box_area input.textbox5").val('');
+                });
             }
 
             function exerciseFn_4() {
+                var isUserCorrectOne = false;
+                var textbox1 = '';
+                var textbox2 = '';
+                var textbox3 = '';
+                var textbox4 = '';
+                var textbox5 = '';
+                var textbox6 = '';
+                var textbox7 = '';
+                var textbox8 = '';
+                var textbox9 = '';
+                var textbox10 = '';
+                $(".unit_7_lesson_5 .exercise4 .submit_btn").on('click', function() {
+                    textbox1 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox1").val();
+                    textbox2 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox2").val();
+                    textbox3 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox3").val();
+                    textbox4 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox4").val();
+                    textbox5 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox5").val();
+                    textbox6 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox6").val();
+                    textbox7 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox7").val();
+                    textbox8 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox8").val();
+                    textbox9 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox9").val();
+                    textbox10 = $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox10").val();
+                    isUserCorrectOne = textbox1 === '91' && textbox2 === '92' && textbox3 === '93' && textbox4 === '94' && textbox5 === '95' && textbox6 === '96' && textbox7 === '97' && textbox8 === '98' && textbox9 === '99' && textbox10 === '100' ?  true : false;
 
+                    if (isUserCorrectOne) {
+                        $(".unit_7_lesson_5 .exercise4 .feedback_box, .unit_7_lesson_5 .exercise4 .overlay, .unit_7_lesson_5 .exercise4 .right_feedback").show();
+                        $(".unit_7_lesson_5 .exercise4 .wrong_feedback").hide();
+                    } else {
+                        $(".unit_7_lesson_5 .exercise4 .feedback_box, .unit_7_lesson_5 .exercise4 .overlay, .unit_7_lesson_5 .exercise4 .wrong_feedback").show();
+                        $(".unit_7_lesson_5 .exercise4 .right_feedback").hide();
+                    }
+                });
+
+                $(".unit_7_lesson_5 .exercise4 .close_popup").off("click").on("click", function() {
+                    $(".unit_7_lesson_5 .exercise4 .feedback_box, .unit_7_lesson_5 .exercise4 .overlay, .unit_7_lesson_5 .exercise4 .wrong_feedback").hide();
+                });
+
+                $(".unit_7_lesson_5 .exercise4 .reload").on('click', function() {
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox1").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox2").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox3").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox4").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox5").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox6").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox7").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox8").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox9").val('');
+                    $(".unit_7_lesson_5 .exercise4 .numberRow input.textbox10").val('');
+                });
             }
         }
     },
