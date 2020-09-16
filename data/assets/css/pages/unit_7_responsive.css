@@ -89,6 +89,20 @@
 /********************** unit_7_lesson_3 .exercise_4 End ********************/
 
 
+/********************** unit_7_lesson_4 .exercise_1 Start ********************/
+.unit_7_lesson_4 .exercise1 .header_part{height: auto;}
+.unit_7_lesson_4 .exercise1 .fullBox{height: auto; }
+.unit_7_lesson_4 .exercise1 .topBox{padding: 0px 10px;flex-direction: column;}
+.unit_7_lesson_4 .exercise1 .topBox .numSound{top:0px;}
+.unit_7_lesson_4 .exercise1 .topBox > div{flex-direction: column;padding-top:0%;width: 100%;}
+.unit_7_lesson_4 .exercise1 .bottomBox > div{padding-top:26%;}
+.unit_7_lesson_4 .exercise1 .bottomBox .leftBox:after{background: none;}
+.unit_7_lesson_4 .exercise1 .bottomBox .leftBox .numSound.smallsound{right:2%;}
+.unit_7_lesson_4 .exercise1 .bottomBox .rightBox .numSound.bigsound{left:0px;}
+.unit_7_lesson_4 .exercise1 .bottomBox .rightBox .numSound.smallsound{bottom:43%;}
+/********************** unit_7_lesson_4 .exercise_1 End ********************/
+
+
 
 
 
@@ -207,7 +221,18 @@
 .unit_7_lesson_3 .exercise4 .numberPanel .numberRow > div.selected:after{width: 30px;height: 30px;}
 /********************** unit_7_lesson_3 .exercise_4 End ********************/
 
-
+/********************** unit_7_lesson_4 .exercise_1 Start ********************/
+.unit_7_lesson_4 .exercise1 .header_part{height: auto;}
+.unit_7_lesson_4 .exercise1 .fullBox{height: auto; }
+.unit_7_lesson_4 .exercise1 .topBox{padding: 0px 10px;flex-direction: column;}
+.unit_7_lesson_4 .exercise1 .topBox .numSound{top:0px;}
+.unit_7_lesson_4 .exercise1 .topBox > div{flex-direction: column;padding-top:20%;width: 100%;}
+.unit_7_lesson_4 .exercise1 .bottomBox > div{padding-top:40%;}
+.unit_7_lesson_4 .exercise1 .bottomBox .leftBox:after{background: none;}
+.unit_7_lesson_4 .exercise1 .bottomBox .leftBox .numSound.smallsound{right:2%;}
+.unit_7_lesson_4 .exercise1 .bottomBox .rightBox .numSound.bigsound{left:0px;}
+.unit_7_lesson_4 .exercise1 .bottomBox .rightBox .numSound.smallsound{bottom:43%;}
+/********************** unit_7_lesson_4 .exercise_1 End ********************/
 
 
 
