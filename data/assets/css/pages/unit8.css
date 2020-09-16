@@ -1,0 +1,48 @@
+/********************** unit_8_lesson_1 .exercise_1 Start ********************/
+.unit_8_lesson_1 .exercise1 .main_box{width: 100%;float: left;position: relative;padding: 15px;}
+.unit_8_lesson_1 .exercise1 .top_box{width: 100%;text-align: center;}
+.unit_8_lesson_1 .exercise1 .bottom_box{width: 38%;border: 1px solid;border-radius: 20px;padding: 10px;position: absolute;top: 300px;left: 42px;}
+.unit_8_lesson_1 .exercise1 .main_box .numSound {width:100%;display: flex;align-items: center;}
+.unit_8_lesson_1 .exercise1 .main_box img {width: 100%;max-width: 100%;}
+.unit_8_lesson_1 .exercise1 .padd{padding-bottom: 10px;}
+.unit_8_lesson_1 .exercise1 .spiker_icon img{padding-right: 15px;}
+/********************** unit_8_lesson_1 .exercise_1 End ********************/
+
+/********************** unit_8_lesson_1 .exercise_2 Start ********************/
+.unit_8_lesson_1 .exercise2 .main_box{width: 100%;float: left;position: relative;padding: 15px;}
+.unit_8_lesson_1 .exercise2 .top_box{width: 100%;text-align: center;}
+.unit_8_lesson_1 .exercise2 .top_box img{}
+.unit_8_lesson_1 .exercise2 .bottom_box{width: 38%;border: 1px solid;border-radius: 20px;padding: 10px;position: absolute;top: 300px;left: 42px;}
+.unit_8_lesson_1 .exercise2 .main_box .numSound {width:100%;display: flex;align-items: center;}
+.unit_8_lesson_1 .exercise2 .main_box img {width: 100%;max-width: 100%;}
+.unit_8_lesson_1 .exercise2 .padd{padding-bottom: 10px;}
+.unit_8_lesson_1 .exercise2 .check_box{width: 50px;height: 45px;border: 1px solid;margin-right: 15px;}
+/********************** unit_8_lesson_1 .exercise_2 End ********************/
+
+/********************** unit_8_lesson_1 .exercise_3 Start ********************/
+.unit_8_lesson_1 .exercise3 .main_box{width: 100%;float: left;position: relative;padding: 15px;}
+.unit_8_lesson_1 .exercise3 .top_box{width: 100%;text-align: center;}
+.unit_8_lesson_1 .exercise3 .top_box img{ width: 80% !important;}
+.unit_8_lesson_1 .exercise3 .top_box2{width: 100%;text-align: center;margin-top: 20px;}
+.unit_8_lesson_1 .exercise3 .top_box2 img{ width: 50% !important;}
+.unit_8_lesson_1 .exercise3 .main_box .numSound {width:100%;display: flex;align-items: center;}
+.unit_8_lesson_1 .exercise3 .main_box img {width: 100%;max-width: 100%;}
+.unit_8_lesson_1 .exercise3 .spiker_icon img{padding-right: 15px;}
+.unit_8_lesson_1 .exercise3 .sound1{position: absolute;bottom: 222px;}
+.unit_8_lesson_1 .exercise3 .sound2{position: absolute;right: 8px;top: 176px;}
+/********************** unit_8_lesson_1 .exercise_3 End ********************/
+
+/********************** unit_8_lesson_1 .exercise_4 Start ********************/
+.unit_8_lesson_1 .exercise4 .main_box{width: 100%;float: left;position: relative;padding: 15px;}
+.unit_8_lesson_1 .exercise4 .top_box{width: 100%;text-align: center;}
+.unit_8_lesson_1 .exercise4 .top_box img{ width: 80% !important;}
+.unit_8_lesson_1 .exercise4 .top_box2{width: 100%;text-align: center;margin-top: 20px;}
+.unit_8_lesson_1 .exercise4 .top_box2 img{ width: 50% !important;}
+.unit_8_lesson_1 .exercise4 .main_box .numSound {width:100%;display: flex;align-items: center;}
+.unit_8_lesson_1 .exercise4 .main_box img {width: 100%;max-width: 100%;}
+.unit_8_lesson_1 .exercise4 .spiker_icon img{padding-right: 15px;}
+.unit_8_lesson_1 .exercise4 .sound1{position: absolute;bottom: 222px;}
+.unit_8_lesson_1 .exercise4 .sound2{position: absolute;right: 0px;top: 176px;}
+/********************** unit_8_lesson_1 .exercise_4 End ********************/
+
+
