@@ -102,7 +102,12 @@
 .unit_7_lesson_4 .exercise1 .bottomBox .rightBox .numSound.smallsound{bottom:43%;}
 /********************** unit_7_lesson_4 .exercise_1 End ********************/
 
-
+/********************** unit_7_lesson_4 .exercise_3 Start ********************/
+.unit_7_lesson_4 .exercise3 .full_box .box1{ width: 100%;}
+.unit_7_lesson_4 .exercise3 .full_box .box2{ width: 100%;}
+.unit_7_lesson_4 .exercise3 .box_uper{background: #fff;}
+.unit_7_lesson_4 .exercise3 .botton_box{bottom: 44px;}
+/********************** unit_7_lesson_4 .exercise_3 end ********************/
 
 
 
@@ -234,7 +239,13 @@
 .unit_7_lesson_4 .exercise1 .bottomBox .rightBox .numSound.smallsound{bottom:43%;}
 /********************** unit_7_lesson_4 .exercise_1 End ********************/
 
-
+/********************** unit_7_lesson_4 .exercise_3 Start ********************/
+.unit_7_lesson_4 .exercise3 .full_box .box1{ width: 100%;}
+.unit_7_lesson_4 .exercise3 .full_box .box2{ width: 100%;}
+.unit_7_lesson_4 .exercise3 .box_uper{background: #fff;}
+.unit_7_lesson_4 .exercise3 .check_box4{margin-left: 25%;}
+.unit_7_lesson_4 .exercise3 .check_box2{margin-left: 25%;}
+/********************** unit_7_lesson_4 .exercise_3 end ********************/
 
 /********************** unit_7_lesson_5 .exercise_1 Start ********************/
 .unit_7_lesson_5 .exercise1 .header_part{height: auto;}

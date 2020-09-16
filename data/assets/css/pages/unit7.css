@@ -225,9 +225,9 @@
 .unit_7_lesson_4 .exercise1 .bottomBox .leftBox .numSound.smallsound {right: 14%;top: auto;bottom: 2%; left: auto;}
 .unit_7_lesson_4 .exercise1 .bottomBox .rightBox .numSound.bigsound{left: 32%;right: auto;top:20%;}
 .unit_7_lesson_4 .exercise1 .bottomBox .rightBox .numSound.smallsound {right: 4%;top: auto;bottom: 12%;}
-/********************** unit_7_lesson_2 .exercise_1 End ********************/
+/********************** unit_7_lesson_4 .exercise_1 End ********************/
 
-/********************** unit_7_lesson_2 .exercise_2 stsrt ********************/
+/********************** unit_7_lesson_4 .exercise_2 stsrt ********************/
 .unit_7_lesson_4 .exercise2 .full_box{width: 100%; float: left;position: relative;}
 .unit_7_lesson_4 .exercise2 .full_box .numSound {width:100%;display: flex;justify-content: center;align-items: center;}
 .unit_7_lesson_4 .exercise2 .full_box img {width: 100%;max-width: 100%;}
@@ -243,7 +243,24 @@
 .unit_7_lesson_4 .exercise2 .box_uper .selectedArea.selected{border:2px solid #d1232a;}
 /********************** unit_7_lesson_4 .exercise_2 Start ********************/
 
-/********************** unit_7_lesson_4 .exercise_3 End ********************/
+
+
+/********************** unit_7_lesson_4 .exercise_3 stsrt ********************/
+.unit_7_lesson_4 .exercise3 .full_box{width: 100%; float: left;position: relative;}
+.unit_7_lesson_4 .exercise3 .full_box .numSound {width:100%;display: flex;justify-content: center;align-items: center;}
+.unit_7_lesson_4 .exercise3 .full_box img {width: 100%;max-width: 100%;}
+.unit_7_lesson_4 .exercise3 .box_uper{ width: 100%; height: 100%; float: left;padding: 20px 5%;}
+.unit_7_lesson_4 .exercise3 .full_box .box1{width:48%;float: left;border: 1px solid #231f20;border-radius: 10px;padding:10px 10px 10px 10px;margin-bottom: 20px; position: relative;}
+.unit_7_lesson_4 .exercise3 .full_box .box2{width:48%;float: right;border: 1px solid #231f20;border-radius: 10px;padding:10px 10px 10px 10px; position: relative;}
+.unit_7_lesson_4 .exercise3 .chack_box{ width: 100%; float: left;}
+.unit_7_lesson_4 .exercise3 .chack{height: 55px;width: 78px;border: 1px solid;border-radius: 4px; float: left;}
+.unit_7_lesson_4 .exercise3 .check_box1{margin-left: 8%;}
+.unit_7_lesson_4 .exercise3 .check_box2{margin-left: 40%;}
+.unit_7_lesson_4 .exercise3 .check_box3{margin-left: 8%;}
+.unit_7_lesson_4 .exercise3 .check_box4{margin-left: 42%;}
+
+/********************** unit_7_lesson_4 .exercise_3 Start ********************/
+
 
 /********************** unit_7_lesson_4 .exercise_4 Start ********************/
 
