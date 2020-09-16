@@ -38,15 +38,13 @@
 /********************** unit_7_lesson_2 .exercise_1 End ********************/
 
 /********************** unit_7_lesson_2 .exercise_2 Start ********************/
-.unit_7_lesson_2 .exercise2 .box_uper{padding: 54px 96px;}
-.unit_7_lesson_2 .exercise2 .full_box .numSound{top: -5%;right: 39%;}
-.unit_7_lesson_2 .exercise2 .full_box .box1{ margin-bottom: 10px;}
+.unit_7_lesson_2 .exercise2 .full_box .box1, .unit_7_lesson_2 .exercise2 .full_box .box2{width:100%;}
+.unit_7_lesson_2 .exercise2 .botton_box{bottom: 44px;}
 /********************** unit_7_lesson_2 .exercise_2 Start ********************/
 
 /********************** unit_7_lesson_2 .exercise_3 Start ********************/
-.unit_7_lesson_2 .exercise3 .box_uper{padding: 54px 113px;}
-.unit_7_lesson_2 .exercise3 .full_box .numSound{top: -5%;right: 22%;}
-.unit_7_lesson_2 .exercise3 .full_box .box1{ margin-bottom: 10px;}
+.unit_7_lesson_2 .exercise3 .full_box .box1, .unit_7_lesson_2 .exercise3 .full_box .box2{width:100%;}
+.unit_7_lesson_2 .exercise3 .botton_box{bottom: 44px;}
 /********************** unit_7_lesson_2 .exercise_3 Start ********************/
 
 /********************** unit_7_lesson_2 .exercise_4 start ********************/
@@ -159,15 +157,13 @@
 /********************** unit_7_lesson_2 .exercise_1 End ********************/
 
 /********************** unit_7_lesson_2 .exercise_2 End ********************/
-.unit_7_lesson_2 .exercise2 .full_box .numSound {top: 3%;right: 35%;}
-.unit_7_lesson_2 .exercise2 .full_box .box1{ margin-bottom: 10px;;}
-.unit_7_lesson_2 .exercise2 .box_uper{padding: 90px 55px 0px 55px;}
+.unit_7_lesson_2 .exercise2 .full_box .box1, .unit_7_lesson_2 .exercise2 .full_box .box2{width:100%;}
+.unit_7_lesson_2 .exercise2 .botton_box{bottom: 44px;}
 /********************** unit_7_lesson_2 .exercise_2 End ********************/
 
 /********************** unit_7_lesson_2 .exercise_3 start ********************/
-.unit_7_lesson_2 .exercise3 .full_box .numSound {top: 3%;right: 12%;}
-.unit_7_lesson_2 .exercise3 .full_box .box1{ margin-bottom: 10px;;}
-.unit_7_lesson_2 .exercise3 .box_uper{padding: 90px 55px 0px 55px;}
+.unit_7_lesson_2 .exercise3 .full_box .box1, .unit_7_lesson_2 .exercise3 .full_box .box2{width:100%;}
+.unit_7_lesson_2 .exercise3 .botton_box{bottom: 44px;}
 /********************** unit_7_lesson_2 .exercise_3 End ********************/
 
 /********************** unit_7_lesson_2 .exercise_4 start ********************/
