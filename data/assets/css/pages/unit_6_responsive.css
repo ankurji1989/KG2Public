@@ -97,6 +97,27 @@
 .unit_6_lesson_4 .exercise3 .text_box_area input.textbox5{bottom:61%;}
 /********************** unit_6_lesson_4 .exercise_3 End ********************/
 
+/********************** unit_6_lesson_5 .exercise_1 Start ********************/
+.unit_6_lesson_5 .exercise1 .header_part{height: auto;}
+.unit_6_lesson_5 .exercise1 .fullBox{height: auto; }
+.unit_6_lesson_5 .exercise1 .bottomBox{padding: 0px 10px;flex-direction: column;}
+.unit_6_lesson_5 .exercise1 .topBox .numSound{top:0%;}
+.unit_6_lesson_5 .exercise1 .topBox > div{flex-direction: column;padding-top:20%;width: 100%;}
+.unit_6_lesson_5 .exercise1 .bottomBox > div.leftBox{padding-top:24%;}
+.unit_6_lesson_5 .exercise1 .bottomBox .leftBox:after{background: none;}
+.unit_6_lesson_5 .exercise1 .topBox .rightBox .numSound{top:6%;}
+/********************** unit_6_lesson_5 .exercise_1 End ********************/
+
+/********************** unit_6_lesson_5 .exercise_2 Start ********************/
+.unit_6_lesson_5 .exercise2 .full_box .box1, .unit_6_lesson_5 .exercise2 .full_box .box2{width:100%;}
+.unit_6_lesson_5 .exercise2 .botton_box{bottom: 44px;}
+/********************** unit_6_lesson_5 .exercise_2 Start ********************/
+
+/********************** unit_6_lesson_5 .exercise_3 Start ********************/
+.unit_6_lesson_5 .exercise3 .full_box .box1, .unit_6_lesson_5 .exercise3 .full_box .box2{width:100%;}
+.unit_6_lesson_5 .exercise3 .botton_box{bottom: 44px;}
+/********************** unit_6_lesson_5 .exercise_3 Start ********************/
+
 }
 @media (max-width: 360px) {
 /********************** unit_7_lesson_1 .exercise_2 Start ********************/
@@ -119,4 +140,9 @@
 .unit_6_lesson_4 .exercise3 .text_box_area input.textbox4{bottom:72%;}
 .unit_6_lesson_4 .exercise3 .text_box_area input.textbox5{bottom:59%;}
 /********************** unit_6_lesson_4 .exercise_3 End ********************/
+
+/********************** unit_6_lesson_5 .exercise_1 Start ********************/
+.unit_6_lesson_5 .exercise1 .topBox > div{flex-direction: column;padding-top:25%;width: 100%;}
+.unit_6_lesson_5 .exercise1 .bottomBox > div.leftBox{padding-top:35%;}
+/********************** unit_6_lesson_5 .exercise_1 End ********************/
 }
