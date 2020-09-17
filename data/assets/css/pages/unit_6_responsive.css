@@ -68,6 +68,35 @@
 .unit_6_lesson_3 .exercise4 .fullContainer .topBox,
 .unit_6_lesson_3 .exercise4 .fullContainer .bottomBox{min-height: 135px;}
 /********************** unit_6_lesson_3 .exercise_4 end ********************/
+
+/********************** unit_6_lesson_4 .exercise_1 Start ********************/
+.unit_6_lesson_4 .exercise1 .header_part{height: auto;}
+.unit_6_lesson_4 .exercise1 .counting_box{width: 100%;margin: 0px;}
+.unit_6_lesson_4 .exercise1 .counting_box > div{width: 100%;}
+.unit_6_lesson_4 .exercise1 .counting_box .numberBox .numSound{width:45%;}
+.unit_6_lesson_4 .exercise1 .counting_box .numberBox .numSound img{max-width: 90%;}
+.unit_6_lesson_4 .exercise1 .counting_box .bigImage{display: block; text-align: center;}
+/********************** unit_6_lesson_4 .exercise_1 End ********************/
+
+/********************** unit_6_lesson_4 .exercise_2 Start ********************/
+.unit_6_lesson_4 .exercise2 .header_part{height: auto;}
+.unit_6_lesson_4 .exercise2 .numberPanel .numberRow > div{font-size: 24px;}
+.unit_6_lesson_4 .exercise2 .numberPanel .infoPanel > div > img{float: none;width: auto;}
+.unit_6_lesson_4 .exercise2 .numberPanel .infoPanel > div > div{float: none;width: auto;}
+/********************** unit_6_lesson_4 .exercise_2 End ********************/
+
+/********************** unit_6_lesson_4 .exercise_3 Start ********************/
+.unit_6_lesson_4 .exercise3 img{width: auto;}
+.unit_6_lesson_4 .exercise3 .header_part{height: auto;}
+.unit_6_lesson_4 .exercise3 .fullBox{margin-top: 35px;}
+.unit_6_lesson_4 .exercise3 .text_box_area input{font-size: 24px;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox1{bottom:22%;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox2{bottom:26%;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox3{bottom:47%;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox4{bottom:74%;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox5{bottom:61%;}
+/********************** unit_6_lesson_4 .exercise_3 End ********************/
+
 }
 @media (max-width: 360px) {
 /********************** unit_7_lesson_1 .exercise_2 Start ********************/
@@ -78,4 +107,16 @@
 .unit_6_lesson_2 .exercise4 .numberPanel .numberRow > div{font-size: 18px;}
 /********************** unit_7_lesson_5 .exercise_4 End ********************/
 
+/********************** unit_6_lesson_4 .exercise_2 Start ********************/
+.unit_6_lesson_4 .exercise2 .numberPanel .numberRow > div{font-size: 18px;}
+/********************** unit_6_lesson_4 .exercise_2 End ********************/
+
+/********************** unit_6_lesson_4 .exercise_3 Start ********************/
+.unit_6_lesson_4 .exercise3 .text_box_area input{font-size: 18px;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox1{bottom:20%;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox2{bottom:24%;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox3{bottom:45%;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox4{bottom:72%;}
+.unit_6_lesson_4 .exercise3 .text_box_area input.textbox5{bottom:59%;}
+/********************** unit_6_lesson_4 .exercise_3 End ********************/
 }
