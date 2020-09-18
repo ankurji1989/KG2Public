@@ -14,6 +14,17 @@
 .unit_6_lesson_1 .exercise1 .topBox .rightBox .numSound{top:6%;}
 /********************** unit_6_lesson_1 .exercise_1 End ********************/
 
+/********************** unit_6_lesson_1 .exercise_2 Start ********************/
+.unit_6_lesson_1 .exercise2 .full_box .box1{ width: 100%;}
+.unit_6_lesson_1 .exercise2 .full_box .box2{ width: 100%;}
+.unit_6_lesson_1 .exercise2 .box_uper{ background: #fff;}
+
+
+.unit_6_lesson_1 .exercise3 .full_box .box1{ width: 100%;}
+.unit_6_lesson_1 .exercise3 .full_box .box2{ width: 100%;}
+.unit_6_lesson_5 .exercise4 .full_box{ margin-top: 41px;}
+/********************** unit_6_lesson_1 .exercise_2 end ********************/
+
 /********************** unit_7_lesson_1 .exercise_1 Start ********************/
 .unit_6_lesson_2 .exercise1 .header_part{height: auto;}
 .unit_6_lesson_2 .exercise1 .counting_box{width: 100%;margin: 0px;}
@@ -121,13 +132,26 @@
 }
 @media (max-width: 360px) {
 /********************** unit_7_lesson_1 .exercise_2 Start ********************/
+.unit_6_lesson_2 .exercise1 .counting_box .numberBox .numImage img{max-width: 153px;}
+
+
 .unit_6_lesson_2 .exercise2 .numberPanel .numberRow > div{font-size: 18px;}
+
+.unit_6_lesson_5 .exercise4 .full_box{ margin-top: 41px;}
 /********************** unit_7_lesson_1 .exercise_2 End ********************/
 
 /********************** unit_7_lesson_5 .exercise_4 Start ********************/
 .unit_6_lesson_2 .exercise4 .numberPanel .numberRow > div{font-size: 18px;}
 /********************** unit_7_lesson_5 .exercise_4 End ********************/
-
+/********************** unit_6_lesson_1 .exercise_2 Start ********************/
+.unit_6_lesson_1 .exercise2 .full_box .box1{ width: 100%;}
+.unit_6_lesson_1 .exercise2 .full_box .box2{ width: 100%;}
+.unit_6_lesson_1 .exercise2 .box_uper{ background: #fff;}
+.unit_6_lesson_1 .exercise2 .check_box4{top: 67%;}
+.unit_6_lesson_1 .exercise1 .topBox .imageBox{padding: 0px;}
+.unit_6_lesson_1 .exercise3 .full_box .box1{ width: 100%;}
+.unit_6_lesson_1 .exercise3 .full_box .box2{ width: 100%;}
+/********************** unit_6_lesson_1 .exercise_2 end ********************/
 /********************** unit_6_lesson_4 .exercise_2 Start ********************/
 .unit_6_lesson_4 .exercise2 .numberPanel .numberRow > div{font-size: 18px;}
 /********************** unit_6_lesson_4 .exercise_2 End ********************/
