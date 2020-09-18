@@ -240,20 +240,21 @@
 .unit_5_lesson_2 .exercise2 .clickbox{    width: 340px;
     float: left;
     text-align: center;}
+.unit_5_lesson_2 .exercise2 .header_part {height: 75px}
 .unit_5_lesson_2 .exercise2 .btmimg img {
     position: absolute;
-    bottom: 124px;
-    right: 43px;
-    width: 110px;
+    bottom: 0px;
+    right: 0;
+    width: 55px;
 }
-.unit_5_lesson_2 .exercise2 .dragbox {
+.unit_5_lesson_2 .exercise2 .leftArea {
     width: 320px;
     float: left;
     text-align: center;
-    padding-top: 20px;
+    padding: 20px;
 }
-
-.unit_5_lesson_2 .exercise2 .dragbox span {
+.unit_5_lesson_2 .exercise2 .dragArea {width: 100%;float: left; display: flex; align-items: center; justify-content: center; margin-bottom: 50px}
+/*.unit_5_lesson_2 .exercise2 .dragbox span {
     display: inline-block;
     background: #fff;
     padding: 0px 50px;
@@ -263,24 +264,234 @@
     cursor: pointer;
     height: 80px;
     margin-top: 35px;transition: all ease 0.5s;
-}
+}*/
 .unit_5_lesson_2 .exercise2 .imgright2 {
-    width: 400px;
-    float: left;box-shadow: 0px 0px 3px 1px #000000a8;
+    width: 450px;
+    float: left;
+    box-shadow: 0px 0px 3px 1px #000000a8;
+    position: relative;
+}
+.unit_5_lesson_2 .exercise2 .flexBox {width: 100%; float: left; position: relative;}
+.unit_5_lesson_2 .exercise2 .drop_area {
+    width: 50%;
+    float: right;
+    position: absolute;
+    right: 25%;
+    top: 50px;
+    margin-bottom: 30px;
 }
 
+.unit_5_lesson_2 .exercise2 .dropable_box {
+    width: 100%;
+    height: 70px;
+    border: 2px solid black;
+    border-style: dotted;
+    float: left;
+    border-radius: 20px;
+    background: #fff;
+    position: relative;
+    padding: 12px;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.unit_5_lesson_2 .exercise2 .dregbale_box {
+    width: 100px;
+    float: left;
+    margin: 0 10px;
+    text-align: center;
+}
+.unit_5_lesson_2 .exercise2 .dregbale_box.dragBox3 {
+	width: 70px
+}
+.unit_5_lesson_2 .exercise2 .dregbale_box img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.unit_5_lesson_2 .exercise2 .dropable_box p {
+    opacity: 0.1;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+}
 /********************** unit_5_lesson_2 .exercise_2 End **********************/
 
 
 
 /********************** unit_5_lesson_2 .exercise_3 Start ********************/
+.unit_5_lesson_2 .exercise3 {background:#e4f2f9}
+.unit_5_lesson_2 .exercise3 .imgleft {
+    width: 260px;
+    float: left;
+    position: relative;
+}
+.unit_5_lesson_2 .exercise3 .imgleft ul.numbers {
+	width: 94%;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: absolute;
+    left: 18px;
+    top: 47px;
+    list-style: none;
+}
+.unit_5_lesson_2 .exercise3 .imgleft ul.numbers li {
+	width: 64px;
+    height: 73px;
+    background: #fff;
+    float: left;
+    margin: 10px 6px;
+    margin-bottom: 24px;
+    cursor: pointer;
+}
+.unit_5_lesson_2 .exercise3 .imgleft ul.numbers li.color1 {
+	background: #009ed5
+}
+.unit_5_lesson_2 .exercise3 .imgleft ul.numbers li.color2 {
+	background: #ffef10
+}
+.unit_5_lesson_2 .exercise3 .imgleft ul.numbers li.color3 {
+	background: #7a5693
+}
+.unit_5_lesson_2 .exercise3 .imgleft ul.numbers li.rownone {visibility: hidden;}
+.unit_5_lesson_2 .exercise3 .imgright {
+    width: 320px;
+    float: right;
+}
 
+.unit_5_lesson_2 .exercise3 .imgright span {
+    display: inline-block;
+    background: #fff;
+    padding: 14px 30px;
+    margin-top: 40px;
+    border-radius: 20px;
+    width: 200px;
+    cursor: pointer;
+    height: 80px;
+    transition: all ease 0.5s;
+    position: relative;
+}
+.unit_5_lesson_2 .exercise3 .imgright span:hover {
+    transform: scale(1.1);
+}
+
+.unit_5_lesson_2 .exercise3 .imgright span:after {
+	content: '';
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	background: #009ed5;
+	right: -110px;
+	top: 0;
+}
+.unit_5_lesson_2 .exercise3 .imgright span:nth-child(2):after {
+	background: #ffef10;	
+}
+.unit_5_lesson_2 .exercise3 .imgright span:nth-child(3):after {
+	background: #7a5693;	
+}
+.unit_5_lesson_2 .exercise3 .flexBox {
+    float: left;
+    width: 94%;
+    margin-left: 3%;
+    margin-top: -20px;
+}
 /********************** unit_5_lesson_2 .exercise_3 End **********************/
 
 
 
 /********************** unit_5_lesson_2 .exercise_4 Start ********************/
+.unit_5_lesson_2 .exercise4 {
+    background: #fff;
+}
 
+.unit_5_lesson_2 .exercise4 img {
+    width: auto;
+    max-width: 100%;
+}
+
+.unit_5_lesson_2 .exercise4 .main_box {
+    width: 100%;
+    height: auto;
+    position: relative;
+    float: left;
+    margin-top: -40px;
+}
+.unit_5_lesson_2 .exercise4 .imgleft {
+    width: 220px;
+    float: left;
+    position: relative;
+    text-align: center;
+    margin-left: 50px;
+}
+.unit_5_lesson_2 .exercise4 .imgright {
+    width: 80px;
+    float: right;
+    position: absolute;
+    right: 5px;
+    bottom: 20px;
+}
+.unit_5_lesson_2 .exercise4 .halfBox {width: 50%; height: 180px; float: left; position: relative; padding: 10px 45px; margin-left: 12%}
+
+.unit_5_lesson_2 .exercise4 .input_area_box {
+    width: 100%;
+    float: left;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.unit_5_lesson_2 .exercise4 .images_box {
+    float: left;
+    margin-right: 5%
+}
+
+.unit_5_lesson_2 .exercise4 .input_box {
+    width: 60%;
+    float: left;
+}
+
+.unit_5_lesson_2 .exercise4 .input_box input {
+    width: 100%;
+    height: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    float: left;
+}
+.unit_5_lesson_2 .exercise4 .topBox {
+	width: 100%;
+    float: left;
+    position: relative;
+    height: 210px;
+}
+.unit_5_lesson_2 .exercise4 .bottomBox {
+	width: 100%;
+	float: left;
+	position: relative;
+	margin-top: 40px;
+	display: flex;
+	justify-content: space-between;
+}
+.unit_5_lesson_2 .exercise4 .bottomBox .imgleft {width: 300px}
+.unit_5_lesson_2 .exercise4 .topBox:after {
+	background: url(../../images/unit1/lesson_1/exercise_2/horizontal_line.png) right top;
+    width: 100%;
+    height: 44px;
+    position: absolute;
+    content: '';
+    left: 0;
+    background-repeat: no-repeat;
+    bottom: -33px;
+    background-size: 100%;
+}
 /********************** unit_5_lesson_2 .exercise_4 End **********************/
 
 
