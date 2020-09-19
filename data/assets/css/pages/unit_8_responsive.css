@@ -101,6 +101,16 @@
 .unit_8_lesson_4 .exercise4 .header_part{height: auto;}
 .unit_8_lesson_4 .exercise4 .chack{width: 25%;right: 0%;}
 /********************** unit_8_lesson_4 .exercise_4 end ********************/
+
+/********************** unit_8_lesson_5 .exercise_1 start ********************/
+.unit_8_lesson_5 .exercise1 .header_part{height: 90px;}
+.unit_8_lesson_5 .exercise1 .fullBox{height: calc(100% - 90px);}
+/********************** unit_8_lesson_5 .exercise_1 end ********************/
+
+/********************** unit_8_lesson_5 .exercise_2 start ********************/
+.unit_8_lesson_5 .exercise2 .header_part{height: auto;}
+.unit_8_lesson_5 .exercise2 .flexbox{ min-height: 90px;}
+/********************** unit_8_lesson_5 .exercise_2 end ********************/
 }
 
 @media (max-width: 360px) {
