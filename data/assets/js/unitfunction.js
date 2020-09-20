@@ -3001,9 +3001,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_4_lesson_1 .exercise2 .feedback_box, .unit_4_lesson_1 .exercise2 .overlay, .unit_4_lesson_1 .exercise2 .right_feedback").show();
                         $(".unit_4_lesson_1 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_4_lesson_1 .exercise2 .feedback_box, .unit_4_lesson_1 .exercise2 .overlay, .unit_4_lesson_1 .exercise2 .wrong_feedback").show();
                         $(".unit_4_lesson_1 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -3318,9 +3320,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_4_lesson_3 .exercise2 .feedback_box, .unit_4_lesson_3 .exercise2 .overlay, .unit_4_lesson_3 .exercise2 .right_feedback").show();
                         $(".unit_4_lesson_3 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_4_lesson_3 .exercise2 .feedback_box, .unit_4_lesson_3 .exercise2 .overlay, .unit_4_lesson_3 .exercise2 .wrong_feedback").show();
                         $(".unit_4_lesson_3 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -3610,9 +3614,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_4_lesson_5 .exercise2 .feedback_box, .unit_4_lesson_5 .exercise2 .overlay, .unit_4_lesson_5 .exercise2 .right_feedback").show();
                         $(".unit_4_lesson_5 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_4_lesson_5 .exercise2 .feedback_box, .unit_4_lesson_5 .exercise2 .overlay, .unit_4_lesson_5 .exercise2 .wrong_feedback").show();
                         $(".unit_4_lesson_5 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -3645,9 +3651,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_4_lesson_5 .exercise3 .feedback_box, .unit_4_lesson_5 .exercise3 .overlay, .unit_4_lesson_5 .exercise3 .right_feedback").show();
                         $(".unit_4_lesson_5 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_4_lesson_5 .exercise3 .feedback_box, .unit_4_lesson_5 .exercise3 .overlay, .unit_4_lesson_5 .exercise3 .wrong_feedback").show();
                         $(".unit_4_lesson_5 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -3685,9 +3693,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_4_lesson_5 .exercise4 .feedback_box, .unit_4_lesson_5 .exercise4 .overlay, .unit_4_lesson_5 .exercise4 .right_feedback").show();
                         $(".unit_4_lesson_5 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_4_lesson_5 .exercise4 .feedback_box, .unit_4_lesson_5 .exercise4 .overlay, .unit_4_lesson_5 .exercise4 .wrong_feedback").show();
                         $(".unit_4_lesson_5 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4600,9 +4610,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_1 .exercise2 .feedback_box, .unit_6_lesson_1 .exercise2 .overlay, .unit_6_lesson_1 .exercise2 .right_feedback").show();
                         $(".unit_6_lesson_1 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_1 .exercise2 .feedback_box, .unit_6_lesson_1 .exercise2 .overlay, .unit_6_lesson_1 .exercise2 .wrong_feedback").show();
                         $(".unit_6_lesson_1 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4631,9 +4643,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_1 .exercise3 .feedback_box, .unit_6_lesson_1 .exercise3 .overlay, .unit_6_lesson_1 .exercise3 .right_feedback").show();
                         $(".unit_6_lesson_1 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_1 .exercise3 .feedback_box, .unit_6_lesson_1 .exercise3 .overlay, .unit_6_lesson_1 .exercise3 .wrong_feedback").show();
                         $(".unit_6_lesson_1 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4673,9 +4687,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_2 .exercise2 .feedback_box, .unit_6_lesson_2 .exercise2 .overlay, .unit_6_lesson_2 .exercise2 .right_feedback").show();
                         $(".unit_6_lesson_2 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_2 .exercise2 .feedback_box, .unit_6_lesson_2 .exercise2 .overlay, .unit_6_lesson_2 .exercise2 .wrong_feedback").show();
                         $(".unit_6_lesson_2 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4711,9 +4727,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_2 .exercise3 .feedback_box, .unit_6_lesson_2 .exercise3 .overlay, .unit_6_lesson_2 .exercise3 .right_feedback").show();
                         $(".unit_6_lesson_2 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_2 .exercise3 .feedback_box, .unit_6_lesson_2 .exercise3 .overlay, .unit_6_lesson_2 .exercise3 .wrong_feedback").show();
                         $(".unit_6_lesson_2 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4747,9 +4765,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_2 .exercise4 .feedback_box, .unit_6_lesson_2 .exercise4 .overlay, .unit_6_lesson_2 .exercise4 .right_feedback").show();
                         $(".unit_6_lesson_2 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_2 .exercise4 .feedback_box, .unit_6_lesson_2 .exercise4 .overlay, .unit_6_lesson_2 .exercise4 .wrong_feedback").show();
                         $(".unit_6_lesson_2 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4803,9 +4823,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_3 .exercise2 .feedback_box, .unit_6_lesson_3 .exercise2 .overlay, .unit_6_lesson_3 .exercise2 .right_feedback").show();
                         $(".unit_6_lesson_3 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_3 .exercise2 .feedback_box, .unit_6_lesson_3 .exercise2 .overlay, .unit_6_lesson_3 .exercise2 .wrong_feedback").show();
                         $(".unit_6_lesson_3 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4843,9 +4865,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_3 .exercise3 .feedback_box, .unit_6_lesson_3 .exercise3 .overlay, .unit_6_lesson_3 .exercise3 .right_feedback").show();
                         $(".unit_6_lesson_3 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_3 .exercise3 .feedback_box, .unit_6_lesson_3 .exercise3 .overlay, .unit_6_lesson_3 .exercise3 .wrong_feedback").show();
                         $(".unit_6_lesson_3 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4871,9 +4895,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_3 .exercise4 .feedback_box, .unit_6_lesson_3 .exercise4 .overlay, .unit_6_lesson_3 .exercise4 .right_feedback").show();
                         $(".unit_6_lesson_3 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_3 .exercise4 .feedback_box, .unit_6_lesson_3 .exercise4 .overlay, .unit_6_lesson_3 .exercise4 .wrong_feedback").show();
                         $(".unit_6_lesson_3 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4909,9 +4935,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_4 .exercise2 .feedback_box, .unit_6_lesson_4 .exercise2 .overlay, .unit_6_lesson_4 .exercise2 .right_feedback").show();
                         $(".unit_6_lesson_4 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_4 .exercise2 .feedback_box, .unit_6_lesson_4 .exercise2 .overlay, .unit_6_lesson_4 .exercise2 .wrong_feedback").show();
                         $(".unit_6_lesson_4 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4943,9 +4971,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_4 .exercise3 .feedback_box, .unit_6_lesson_4 .exercise3 .overlay, .unit_6_lesson_4 .exercise3 .right_feedback").show();
                         $(".unit_6_lesson_4 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_4 .exercise3 .feedback_box, .unit_6_lesson_4 .exercise3 .overlay, .unit_6_lesson_4 .exercise3 .wrong_feedback").show();
                         $(".unit_6_lesson_4 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -4976,9 +5006,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_5 .exercise4 .feedback_box, .unit_6_lesson_5 .exercise4 .overlay, .unit_6_lesson_5 .exercise4 .right_feedback").show();
                         $(".unit_6_lesson_5 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_5 .exercise4 .feedback_box, .unit_6_lesson_5 .exercise4 .overlay, .unit_6_lesson_5 .exercise4 .wrong_feedback").show();
                         $(".unit_6_lesson_5 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5026,9 +5058,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_5 .exercise2 .feedback_box, .unit_6_lesson_5 .exercise2 .overlay, .unit_6_lesson_5 .exercise2 .right_feedback").show();
                         $(".unit_6_lesson_5 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_5 .exercise2 .feedback_box, .unit_6_lesson_5 .exercise2 .overlay, .unit_6_lesson_5 .exercise2 .wrong_feedback").show();
                         $(".unit_6_lesson_5 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5058,9 +5092,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_6_lesson_5 .exercise3 .feedback_box, .unit_6_lesson_5 .exercise3 .overlay, .unit_6_lesson_5 .exercise3 .right_feedback").show();
                         $(".unit_6_lesson_5 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_6_lesson_5 .exercise3 .feedback_box, .unit_6_lesson_5 .exercise3 .overlay, .unit_6_lesson_5 .exercise3 .wrong_feedback").show();
                         $(".unit_6_lesson_5 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5108,9 +5144,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_1 .exercise2 .feedback_box, .unit_7_lesson_1 .exercise2 .overlay, .unit_7_lesson_1 .exercise2 .right_feedback").show();
                         $(".unit_7_lesson_1 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_1 .exercise2 .feedback_box, .unit_7_lesson_1 .exercise2 .overlay, .unit_7_lesson_1 .exercise2 .wrong_feedback").show();
                         $(".unit_7_lesson_1 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5145,9 +5183,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_1 .exercise3 .feedback_box, .unit_7_lesson_1 .exercise3 .overlay, .unit_7_lesson_1 .exercise3 .right_feedback").show();
                         $(".unit_7_lesson_1 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_1 .exercise3 .feedback_box, .unit_7_lesson_1 .exercise3 .overlay, .unit_7_lesson_1 .exercise3 .wrong_feedback").show();
                         $(".unit_7_lesson_1 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5178,9 +5218,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_1 .exercise4 .feedback_box, .unit_7_lesson_1 .exercise4 .overlay, .unit_7_lesson_1 .exercise4 .right_feedback").show();
                         $(".unit_7_lesson_1 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_1 .exercise4 .feedback_box, .unit_7_lesson_1 .exercise4 .overlay, .unit_7_lesson_1 .exercise4 .wrong_feedback").show();
                         $(".unit_7_lesson_1 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5228,9 +5270,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_2 .exercise2 .feedback_box, .unit_7_lesson_2 .exercise2 .overlay, .unit_7_lesson_2 .exercise2 .right_feedback").show();
                         $(".unit_7_lesson_2 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_2 .exercise2 .feedback_box, .unit_7_lesson_2 .exercise2 .overlay, .unit_7_lesson_2 .exercise2 .wrong_feedback").show();
                         $(".unit_7_lesson_2 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5260,9 +5304,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_2 .exercise3 .feedback_box, .unit_7_lesson_2 .exercise3 .overlay, .unit_7_lesson_2 .exercise3 .right_feedback").show();
                         $(".unit_7_lesson_2 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_2 .exercise3 .feedback_box, .unit_7_lesson_2 .exercise3 .overlay, .unit_7_lesson_2 .exercise3 .wrong_feedback").show();
                         $(".unit_7_lesson_2 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5288,9 +5334,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_2 .exercise4 .feedback_box, .unit_7_lesson_2 .exercise4 .overlay, .unit_7_lesson_2 .exercise4 .right_feedback").show();
                         $(".unit_7_lesson_2 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_2 .exercise4 .feedback_box, .unit_7_lesson_2 .exercise4 .overlay, .unit_7_lesson_2 .exercise4 .wrong_feedback").show();
                         $(".unit_7_lesson_2 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5316,9 +5364,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_2 .exercise5 .feedback_box, .unit_7_lesson_2 .exercise5 .overlay, .unit_7_lesson_2 .exercise5 .right_feedback").show();
                         $(".unit_7_lesson_2 .exercise5 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_2 .exercise5 .feedback_box, .unit_7_lesson_2 .exercise5 .overlay, .unit_7_lesson_2 .exercise5 .wrong_feedback").show();
                         $(".unit_7_lesson_2 .exercise5 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5354,9 +5404,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_3 .exercise2 .feedback_box, .unit_7_lesson_3 .exercise2 .overlay, .unit_7_lesson_3 .exercise2 .right_feedback").show();
                         $(".unit_7_lesson_3 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_3 .exercise2 .feedback_box, .unit_7_lesson_3 .exercise2 .overlay, .unit_7_lesson_3 .exercise2 .wrong_feedback").show();
                         $(".unit_7_lesson_3 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5390,10 +5442,12 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_3 .exercise3 .feedback_box, .unit_7_lesson_3 .exercise3 .overlay, .unit_7_lesson_3 .exercise3 .right_feedback").show();
                         $(".unit_7_lesson_3 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_3 .exercise3 .feedback_box, .unit_7_lesson_3 .exercise3 .overlay, .unit_7_lesson_3 .exercise3 .wrong_feedback").show();
                         $(".unit_7_lesson_3 .exercise3 .right_feedback").hide();
                         $(".unit_7_lesson_3 .exercise3 .input_area input").val('');
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5424,9 +5478,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_3 .exercise4 .feedback_box, .unit_7_lesson_3 .exercise4 .overlay, .unit_7_lesson_3 .exercise4 .right_feedback").show();
                         $(".unit_7_lesson_3 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_3 .exercise4 .feedback_box, .unit_7_lesson_3 .exercise4 .overlay, .unit_7_lesson_3 .exercise4 .wrong_feedback").show();
                         $(".unit_7_lesson_3 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5466,9 +5522,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_4 .exercise2 .feedback_box, .unit_7_lesson_4 .exercise2 .overlay, .unit_7_lesson_4 .exercise2 .right_feedback").show();
                         $(".unit_7_lesson_4 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_4 .exercise2 .feedback_box, .unit_7_lesson_4 .exercise2 .overlay, .unit_7_lesson_4 .exercise2 .wrong_feedback").show();
                         $(".unit_7_lesson_4 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5497,9 +5555,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_4 .exercise3 .feedback_box, .unit_7_lesson_4 .exercise3 .overlay, .unit_7_lesson_4 .exercise3 .right_feedback").show();
                         $(".unit_7_lesson_4 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_4 .exercise3 .feedback_box, .unit_7_lesson_4 .exercise3 .overlay, .unit_7_lesson_4 .exercise3 .wrong_feedback").show();
                         $(".unit_7_lesson_4 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5524,9 +5584,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_4 .exercise4 .feedback_box, .unit_7_lesson_4 .exercise4 .overlay, .unit_7_lesson_4 .exercise4 .right_feedback").show();
                         $(".unit_7_lesson_4 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_4 .exercise4 .feedback_box, .unit_7_lesson_4 .exercise4 .overlay, .unit_7_lesson_4 .exercise4 .wrong_feedback").show();
                         $(".unit_7_lesson_4 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5562,9 +5624,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_5 .exercise2 .feedback_box, .unit_7_lesson_5 .exercise2 .overlay, .unit_7_lesson_5 .exercise2 .right_feedback").show();
                         $(".unit_7_lesson_5 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_5 .exercise2 .feedback_box, .unit_7_lesson_5 .exercise2 .overlay, .unit_7_lesson_5 .exercise2 .wrong_feedback").show();
                         $(".unit_7_lesson_5 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5596,9 +5660,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_5 .exercise3 .feedback_box, .unit_7_lesson_5 .exercise3 .overlay, .unit_7_lesson_5 .exercise3 .right_feedback").show();
                         $(".unit_7_lesson_5 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_5 .exercise3 .feedback_box, .unit_7_lesson_5 .exercise3 .overlay, .unit_7_lesson_5 .exercise3 .wrong_feedback").show();
                         $(".unit_7_lesson_5 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5643,9 +5709,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_7_lesson_5 .exercise4 .feedback_box, .unit_7_lesson_5 .exercise4 .overlay, .unit_7_lesson_5 .exercise4 .right_feedback").show();
                         $(".unit_7_lesson_5 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_7_lesson_5 .exercise4 .feedback_box, .unit_7_lesson_5 .exercise4 .overlay, .unit_7_lesson_5 .exercise4 .wrong_feedback").show();
                         $(".unit_7_lesson_5 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5703,9 +5771,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_1 .exercise2 .feedback_box, .unit_8_lesson_1 .exercise2 .overlay, .unit_8_lesson_1 .exercise2 .right_feedback").show();
                         $(".unit_8_lesson_1 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_1 .exercise2 .feedback_box, .unit_8_lesson_1 .exercise2 .overlay, .unit_8_lesson_1 .exercise2 .wrong_feedback").show();
                         $(".unit_8_lesson_1 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5748,9 +5818,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_1 .exercise4 .feedback_box, .unit_8_lesson_1 .exercise4 .overlay, .unit_8_lesson_1 .exercise4 .right_feedback").show();
                         $(".unit_8_lesson_1 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_1 .exercise4 .feedback_box, .unit_8_lesson_1 .exercise4 .overlay, .unit_8_lesson_1 .exercise4 .wrong_feedback").show();
                         $(".unit_8_lesson_1 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5771,6 +5843,7 @@ var unitFn = {
             exerciseFn_2();
             exerciseFn_3();
             exerciseFn_4();
+            exerciseFn_5();
 
             function exerciseFn_1() {
 
@@ -5796,9 +5869,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_2 .exercise2 .feedback_box, .unit_8_lesson_2 .exercise2 .overlay, .unit_8_lesson_2 .exercise2 .right_feedback").show();
                         $(".unit_8_lesson_2 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_2 .exercise2 .feedback_box, .unit_8_lesson_2 .exercise2 .overlay, .unit_8_lesson_2 .exercise2 .wrong_feedback").show();
                         $(".unit_8_lesson_2 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5816,7 +5891,8 @@ var unitFn = {
 
             function exerciseFn_3() {
                 var isUserCorrectOne = false;
-                var textbox = '';
+                var textbox1 = '';
+                var textbox2 = '';
                 var selectedCell = 0;
                 $(".unit_8_lesson_2 .exercise3 .circleArea .circle").click(function() {
                     $(this).find('span').addClass('selected');
@@ -5828,15 +5904,18 @@ var unitFn = {
                 });
 
                 $(".unit_8_lesson_2 .exercise3 .submit_btn").on('click', function() {
-                    textbox = $(".unit_8_lesson_2 .exercise3 .fullBox .rightBox input").val();
-                    isUserCorrectOne = textbox === '9' && selectedCell === 9 ?  true : false;
+                    textbox1 = $(".unit_8_lesson_2 .exercise3 .fullBox .rightBox .textbox1").val();
+                    textbox2 = $(".unit_8_lesson_2 .exercise3 .fullBox .rightBox .textbox2").val();
+                    isUserCorrectOne = textbox2 === '1' && textbox1 === '9' && selectedCell === 9 ?  true : false;
 
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_2 .exercise3 .feedback_box, .unit_8_lesson_2 .exercise3 .overlay, .unit_8_lesson_2 .exercise3 .right_feedback").show();
                         $(".unit_8_lesson_2 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_2 .exercise3 .feedback_box, .unit_8_lesson_2 .exercise3 .overlay, .unit_8_lesson_2 .exercise3 .wrong_feedback").show();
                         $(".unit_8_lesson_2 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5847,13 +5926,65 @@ var unitFn = {
                 $(".unit_8_lesson_2 .exercise3 .reload").on('click', function() {
                     $(".unit_8_lesson_2 .exercise3 .circleArea span").removeClass("selected");
                     $(".unit_8_lesson_2 .exercise3 .fullBox .rightBox input").val('');
-                    textbox = '';
+                    textbox1 = '';
+                    textbox2 = '';
                     selectedCell = 0;
                 });
             }
 
             function exerciseFn_4() {
 
+            }
+
+            function exerciseFn_5() {
+                var isUserCorrectOne = false;
+                var textbox1 = '';
+                var textbox2 = '';
+                $(".unit_8_lesson_2 .exercise5 .dreg_box").draggable({revert: "invalid"});
+
+                $(".unit_8_lesson_2 .exercise5 .drop_box").droppable({
+                    drop: function(event, ui) {
+                        var getDropedElmLen = $(this).children(".dreg_box").length;
+                        if (getDropedElmLen <= 0) {
+                            $(this).append($(ui.draggable).clone());
+                            ui.draggable.css({opacity:0});
+                        } else {
+                            ui.draggable.animate({top:'0px',left:'0px'});
+                        }
+                    }
+                });
+
+                $(".unit_8_lesson_2 .exercise5 .submit_btn").on('click', function() {
+                    const circle1 = $(".unit_8_lesson_2 .exercise5 .fullBox .bottomBox .imageBox img.red").length;
+                    const circle2 = $(".unit_8_lesson_2 .exercise5 .fullBox .bottomBox .imageBox img.yellow").length;
+                    textbox1 = $(".unit_8_lesson_2 .exercise5 .fullBox .bottomBox .textbox1").val();
+                    textbox2 = $(".unit_8_lesson_2 .exercise5 .fullBox .bottomBox .textbox2").val();
+                    isUserCorrectOne = circle1 == 6 && circle2 == 4 && textbox1 == '6'  && textbox2 == '4' ?  true : false;
+
+                    if (isUserCorrectOne) {
+                        $(".unit_8_lesson_2 .exercise5 .feedback_box, .unit_8_lesson_2 .exercise5 .overlay, .unit_8_lesson_2 .exercise5 .right_feedback").show();
+                        $(".unit_8_lesson_2 .exercise5 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
+                    } else {
+                        $(".unit_8_lesson_2 .exercise5 .feedback_box, .unit_8_lesson_2 .exercise5 .overlay, .unit_8_lesson_2 .exercise5 .wrong_feedback").show();
+                        $(".unit_8_lesson_2 .exercise5 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
+                    }
+                });
+
+                $(".unit_8_lesson_2 .exercise5 .close_popup").off("click").on("click", function() {
+                    $(".unit_8_lesson_2 .exercise5 .feedback_box, .unit_8_lesson_2 .exercise5 .overlay, .unit_8_lesson_2 .exercise5 .wrong_feedback").hide();
+                });
+
+                $(".unit_8_lesson_2 .exercise5 .reload").on('click', function() {
+                    $(".unit_8_lesson_2 .exercise5 .fullBox .bottomBox input").val('');
+                    $(".unit_8_lesson_2 .exercise5 .drop_box ").html("");
+                    $(".unit_8_lesson_2 .exercise5 .dreg_box").css({opacity:1});
+                    $(".unit_8_lesson_2 .exercise5 .dreg_box").animate({top: "0px", left: "0px"});
+                    isUserCorrectOne = false;
+                    textbox1 = '';
+                    textbox2 = '';
+                });
             }
         }
 
@@ -5879,9 +6010,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_3 .exercise2 .feedback_box, .unit_8_lesson_3 .exercise2 .overlay, .unit_8_lesson_3 .exercise2 .right_feedback").show();
                         $(".unit_8_lesson_3 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_3 .exercise2 .feedback_box, .unit_8_lesson_3 .exercise2 .overlay, .unit_8_lesson_3 .exercise2 .wrong_feedback").show();
                         $(".unit_8_lesson_3 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5908,9 +6041,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_3 .exercise3 .feedback_box, .unit_8_lesson_3 .exercise3 .overlay, .unit_8_lesson_3 .exercise3 .right_feedback").show();
                         $(".unit_8_lesson_3 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_3 .exercise3 .feedback_box, .unit_8_lesson_3 .exercise3 .overlay, .unit_8_lesson_3 .exercise3 .wrong_feedback").show();
                         $(".unit_8_lesson_3 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5941,9 +6076,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_3 .exercise5 .feedback_box, .unit_8_lesson_3 .exercise5 .overlay, .unit_8_lesson_3 .exercise5 .right_feedback").show();
                         $(".unit_8_lesson_3 .exercise5 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_3 .exercise5 .feedback_box, .unit_8_lesson_3 .exercise5 .overlay, .unit_8_lesson_3 .exercise5 .wrong_feedback").show();
                         $(".unit_8_lesson_3 .exercise5 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -5981,9 +6118,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_4 .exercise2 .feedback_box, .unit_8_lesson_4 .exercise2 .overlay, .unit_8_lesson_4 .exercise2 .right_feedback").show();
                         $(".unit_8_lesson_4 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_4 .exercise2 .feedback_box, .unit_8_lesson_4 .exercise2 .overlay, .unit_8_lesson_4 .exercise2 .wrong_feedback").show();
                         $(".unit_8_lesson_4 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -6026,9 +6165,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_4 .exercise3 .feedback_box, .unit_8_lesson_4 .exercise3 .overlay, .unit_8_lesson_4 .exercise3 .right_feedback").show();
                         $(".unit_8_lesson_4 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_4 .exercise3 .feedback_box, .unit_8_lesson_4 .exercise3 .overlay, .unit_8_lesson_4 .exercise3 .wrong_feedback").show();
                         $(".unit_8_lesson_4 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -6061,9 +6202,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_4 .exercise4 .feedback_box, .unit_8_lesson_4 .exercise4 .overlay, .unit_8_lesson_4 .exercise4 .right_feedback").show();
                         $(".unit_8_lesson_4 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_4 .exercise4 .feedback_box, .unit_8_lesson_4 .exercise4 .overlay, .unit_8_lesson_4 .exercise4 .wrong_feedback").show();
                         $(".unit_8_lesson_4 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -6112,9 +6255,11 @@ var unitFn = {
                     if (isUserCorrectOne) {
                         $(".unit_8_lesson_5 .exercise2 .feedback_box, .unit_8_lesson_5 .exercise2 .overlay, .unit_8_lesson_5 .exercise2 .right_feedback").show();
                         $(".unit_8_lesson_5 .exercise2 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
                     } else {
                         $(".unit_8_lesson_5 .exercise2 .feedback_box, .unit_8_lesson_5 .exercise2 .overlay, .unit_8_lesson_5 .exercise2 .wrong_feedback").show();
                         $(".unit_8_lesson_5 .exercise2 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
                     }
                 });
 
@@ -6128,11 +6273,98 @@ var unitFn = {
             }
 
             function exerciseFn_3() {
+                var selectedColor = '';
+                $(".unit_8_lesson_5 .exercise3 .fullBox .colorPallet > div").click(function(){
+                    $(".unit_8_lesson_5 .exercise3 .fullBox .colorPallet > div").removeClass('selected');
+                    selectedColor = $(this).data("color");
+                    $(this).addClass('selected');
+                });
 
+                $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .clickable .imageBox").click(function(){
+                    const dataClasses = $(this).data('classes');
+                    $(this).removeClass();
+                    $(this).addClass(dataClasses).addClass(selectedColor);
+                });
+
+                $(".unit_8_lesson_5 .exercise3 .submit_btn").on('click', function() {
+                    const pattern1 = $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .imageBox.banana").hasClass('yellow') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .imageBox.grapes").hasClass('blue') ? true : false;
+                    const pattern2 =$(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box2 div:nth-child(5) .imageBox.apple").hasClass('red') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box2 div:nth-child(6) .imageBox.apple").hasClass('green') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box2 div:nth-child(7) .imageBox.apple").hasClass('red') ? true : false;
+                    const lycheePattern = $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box3 div:nth-child(1) .imageBox.lychee").hasClass('pink') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box3 div:nth-child(3) .imageBox.lychee").hasClass('pink') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box3 div:nth-child(5) .imageBox.lychee").hasClass('pink') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box3 div:nth-child(7) .imageBox.lychee").hasClass('pink') ? true : false;
+                    const pineCPattern = $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box3 div:nth-child(2) .imageBox.pine").hasClass('grey') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box3 div:nth-child(4) .imageBox.pine").hasClass('grey') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box3 div:nth-child(6) .imageBox.pine").hasClass('grey') && $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox.box3 div:nth-child(8) .imageBox.pine").hasClass('grey') ? true : false;
+                    const pattern3 = lycheePattern && pineCPattern ? true : false;
+                    isUserCorrectOne = pattern1 && pattern2 && pattern3 ?  true : false;
+
+                    if (isUserCorrectOne) {
+                        $(".unit_8_lesson_5 .exercise3 .feedback_box, .unit_8_lesson_5 .exercise3 .overlay, .unit_8_lesson_5 .exercise3 .right_feedback").show();
+                        $(".unit_8_lesson_5 .exercise3 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
+                    } else {
+                        $(".unit_8_lesson_5 .exercise3 .feedback_box, .unit_8_lesson_5 .exercise3 .overlay, .unit_8_lesson_5 .exercise3 .wrong_feedback").show();
+                        $(".unit_8_lesson_5 .exercise3 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
+                    }
+                });
+
+                $(".unit_8_lesson_5 .exercise3 .close_popup").off("click").on("click", function() {
+                    $(".unit_8_lesson_5 .exercise3 .feedback_box, .unit_8_lesson_5 .exercise3 .overlay, .unit_8_lesson_5 .exercise3 .wrong_feedback").hide();
+                });
+
+                $(".unit_8_lesson_5 .exercise3 .reload").on('click', function() {
+                    $(".unit_8_lesson_5 .exercise3 .fullBox .colorPallet > div").removeClass('selected');
+                    $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .clickable .imageBox").removeClass('yellow');
+                    $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .clickable .imageBox").removeClass('blue');
+                    $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .clickable .imageBox").removeClass('red');
+                    $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .clickable .imageBox").removeClass('green');
+                    $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .clickable .imageBox").removeClass('pink');
+                    $(".unit_8_lesson_5 .exercise3 .fullBox .flexBox .clickable .imageBox").removeClass('grey');
+                    selectedColor = '';
+                });
             }
 
             function exerciseFn_4() {
+                var isUserCorrectOne = false;
+                var textbox1 = '';
+                var textbox2 = '';
+                $(".unit_8_lesson_5 .exercise4 .dreg_box").draggable({revert: "invalid"});
 
+                $(".unit_8_lesson_5 .exercise4 .drop_box").droppable({
+                    drop: function(event, ui) {
+                        var getDropedElmLen = $(this).children(".dreg_box").length;
+                        if (getDropedElmLen <= 0) {
+                            $(this).append($(ui.draggable).clone());
+                            ui.draggable.css({opacity:0});
+                        } else {
+                            ui.draggable.animate({top:'0px',left:'0px'});
+                        }
+                    }
+                });
+
+                $(".unit_8_lesson_5 .exercise4 .submit_btn").on('click', function() {
+                    const selector = $(".unit_8_lesson_5 .exercise4 .fullBox .drop_box_area");
+                    const patern1 = $(selector).find("div:first-child img").hasClass('image1') && $(selector).find("div:nth-child(2) img").hasClass('image2') && $(selector).find("div:nth-child(3) img").hasClass('image1') && $(selector).find("div:last-child img").hasClass('image2') ? true : false;
+                    isUserCorrectOne = patern1 ? true : false;
+
+                    if (isUserCorrectOne) {
+                        $(".unit_8_lesson_5 .exercise4 .feedback_box, .unit_8_lesson_5 .exercise4 .overlay, .unit_8_lesson_5 .exercise4 .right_feedback").show();
+                        $(".unit_8_lesson_5 .exercise4 .wrong_feedback").hide();
+                        play('data/assets/audio/globle/good_job.mp3');
+                    } else {
+                        $(".unit_8_lesson_5 .exercise4 .feedback_box, .unit_8_lesson_5 .exercise4 .overlay, .unit_8_lesson_5 .exercise4 .wrong_feedback").show();
+                        $(".unit_8_lesson_5 .exercise4 .right_feedback").hide();
+                        play('data/assets/audio/globle/oops_try_again.mp3');
+                    }
+                });
+
+                $(".unit_8_lesson_5 .exercise4 .close_popup").off("click").on("click", function() {
+                    $(".unit_8_lesson_5 .exercise4 .feedback_box, .unit_8_lesson_5 .exercise4 .overlay, .unit_8_lesson_5 .exercise4 .wrong_feedback").hide();
+                });
+
+                $(".unit_8_lesson_5 .exercise4 .reload").on('click', function() {
+                    $(".unit_8_lesson_5 .exercise4 .drop_box ").html("");
+                    $(".unit_8_lesson_5 .exercise4 .dreg_box").css({opacity:1});
+                    $(".unit_8_lesson_5 .exercise4 .dreg_box").animate({top: "0px", left: "0px"});
+                    isUserCorrectOne = false;
+                });
             }
         }
     }
