@@ -146,6 +146,7 @@
 .unit_7_lesson_2 .exercise5 .bottom_box input{width: 74px;height: 68px; font-size: 48px;  padding:5px;color: #d1232a;font-family: 'riffic', Arial, Helvetica, sans-serif;text-align: center;}
 .unit_7_lesson_2 .exercise5 .img_circle img{width: 100%;max-width: 100%;}
 .unit_7_lesson_2 .exercise5 .botton_box img{width: 100%;max-width: 100%;}
+.unit_7_lesson_2 .exercise5 .left_pointer_img{position: relative;width: 326px;height: 94px;left: -37px;top: -55px;z-index: 9;float: left;}
 /********************** unit_7_lesson_2 .exercise_5 End ********************/
 
 
@@ -257,6 +258,7 @@
 .unit_7_lesson_4 .exercise3 .check_box2{margin-left: 40%;}
 .unit_7_lesson_4 .exercise3 .check_box3{margin-left: 8%;}
 .unit_7_lesson_4 .exercise3 .check_box4{margin-left: 42%;}
+
 /********************** unit_7_lesson_4 .exercise_3 Start ********************/
 
 

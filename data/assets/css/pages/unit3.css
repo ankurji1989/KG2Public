@@ -1,8 +1,15 @@
+.logo_part{    position: absolute !important;
+    width: 326px;
+    height: 94px;
+    left: 0px !important;
+    top: 16px !important;
+    z-index: 9;
+    float: left;}
 /********************** unit_3_lesson_1 .exercise_2 ********************/
 /********************** unit_3_lesson_1 .exercise_2 ********************/
 .unit_3_lesson_1 .exercise2 img {width: 100%; max-width: 100%;}
 .unit_3_lesson_1 .exercise2 .header_part {width: 100%; height: 90px; float: left; position: relative;}
-.unit_3_lesson_1 .exercise2 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_1 .exercise2 .left_pointer_img {width: 326px;height: 94px;position: absolute;top: -50px;left: -35px;z-index: 9;}
 .unit_3_lesson_1 .exercise2 .right_word_text {width: 150px; float: left; margin-top: 30px;}
 .unit_3_lesson_1 .exercise2 .navbar { width: 100%; height: 100px; position: relative; float: left; top: -20px;}
 .unit_3_lesson_1 .exercise2 .three_box_number {width: 50%; float: left; height: 100px; display: flex; align-items: center; justify-content: center; position: relative; bottom: 30px;}
@@ -35,7 +42,7 @@
 
 .unit_3_lesson_3 .exercise2 .header_part {width: 100%; height: 90px; float: left; position: relative;}
 
-.unit_3_lesson_3 .exercise2 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_3 .exercise2 .left_pointer_img {float: left;width: 326px;height: 94px;position: absolute;top: -50px;left: -35px;z-index: 9;}
 
 .unit_3_lesson_3 .exercise2 .right_word_text {width: 150px; float: left; margin-top: 30px;}
 
@@ -267,7 +274,7 @@
 .unit_3_lesson_3 .exercise_4 {width: 100%; position: relative; float: left; height: 100%; background: #fff; }
 .unit_3_lesson_3 .exercise_4 img {width: 100%; max-width: 100%;}
 .unit_3_lesson_3 .exercise_4 .header_part {width: 100%; height: 90px; float: left; position: relative;}
-.unit_3_lesson_3 .exercise_4 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_3 .exercise_4 .left_pointer_img {width: 326px;height: 94px;position: absolute;top: -50px;left: -35px;z-index: 9;}
 
 .unit_3_lesson_3 .exercise_4 .match_box_area { position: relative; width: 680px; height: 350px; left: 195px; top: 30px;    float: left;}
 .unit_3_lesson_3 .exercise_4 .left_side_box { width: 200px;  height: auto; float: left; position: relative;}
@@ -302,7 +309,7 @@
 .unit_3_lesson_4 .exercise_2 {width: 100%; position: relative; float: left; height: 100%; background: #fff; }
 .unit_3_lesson_4 .exercise_2 img {width: 100%; max-width: 100%;}
 .unit_3_lesson_4 .exercise_2 .header_part {width: 100%; height: 90px; float: left; position: absolute;}
-.unit_3_lesson_4 .exercise_2 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_4 .exercise_2 .left_pointer_img {position: relative;width: 326px;height: 94px;left: -37px;top: -55px;z-index: 9;float: left;}
 
 .martion_top20{margin-top: 70px;}
 .container.martion_top20 {
@@ -330,7 +337,7 @@
 .unit_3_lesson_4 .exercise_3 {width: 100%; position: relative; float: left; height: 100%; background: #f7dace; }
 .unit_3_lesson_4 .exercise_3 img {width: 100%; max-width: 100%;}
 .unit_3_lesson_4 .exercise_3 .header_part {width: 100%; height: 90px; float: left; position: absolute;}
-.unit_3_lesson_4 .exercise_3 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_4 .exercise_3 .left_pointer_img {position: relative;width: 326px;height: 94px;left: -37px;top: -55px;z-index: 9;float: left;}
 .unit_3_lesson_4 .exercise_3 .botton_box { width: 100px; position: absolute; right: 0px; bottom: 0px;}
 
 
@@ -347,7 +354,7 @@
 .unit_3_lesson_4 .exercise_4 {width: 100%; position: relative; float: left; height: 100%; background: #eaf2dd; }
 .unit_3_lesson_4 .exercise_4 img {width: 100%; max-width: 100%;}
 .unit_3_lesson_4 .exercise_4 .header_part {width: 100%; height: 90px; float: left; position: absolute;}
-.unit_3_lesson_4 .exercise_4 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_4 .exercise_4 .left_pointer_img {position: relative;width: 326px;height: 94px;left: -37px;top: -55px;z-index: 9;float: left;}
 .unit_3_lesson_4 .exercise_4 .botton_box { width: 100px; position: absolute; right: 0px; bottom: 0px;}
 
 
@@ -438,7 +445,7 @@
 
 .unit_3_lesson_5 .exercise2 img {width: 100%; max-width: 100%;}
 .unit_3_lesson_5 .exercise2 .header_part {width: 100%; height: 90px; float: left; position: relative;}
-.unit_3_lesson_5 .exercise2 .left_pointer_img {position: relative; width: 326px; height: 94px; left: -10px; top: -40px; z-index: 9; float: left;}
+.unit_3_lesson_5 .exercise2 .left_pointer_img {position: relative;width: 326px;height: 94px;left: -37px;top: -55px;z-index: 9;float: left;}
 
 .unit_3_lesson_5 .exercise2 .right_word_text {width: 150px; float: left; margin-top: 30px;}
 .unit_3_lesson_5 .exercise2 .navbar { width: 100%; height: 100px; position: relative; float: left; top: -20px;}
@@ -486,11 +493,7 @@
     background-size: 100%;
 }
 
-.unit_3_lesson_5 .exercise_3 .left_pointer_img.Zoom.top {
-    position: relative;
-    top: -50px;
-    z-index: 9;
-}
+.unit_3_lesson_5 .exercise_3 .left_pointer_img {position: relative;width: 326px;height: 94px;left: -37px;top: -55px;z-index: 9;float: left;}
 
 .unit_3_lesson_5 .exercise_3 .main_box {
     width: 301px;
@@ -560,12 +563,7 @@
 
 /********************** unit_3_lesson_5 .exercise_4 ********************/
 
-.unit_3_lesson_5 .exercise_4 .header_part.clap {
-    position: absolute;
-    z-index: 9;
-    top: -54px;
-    left: -36px;
-}
+.unit_3_lesson_5 .exercise_4 .header_part.clap {position: relative;width: 326px;height: 94px;left: -37px;top: -55px;z-index: 9;float: left;}
 
 .unit_3_lesson_5 .exercise_4 {
     width: 100%;
