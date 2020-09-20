@@ -431,7 +431,13 @@
 .unit_4_lesson_5 .exercise3 {background: url(../../images/unit4/lession_5/exercise_3/bg.jpg)}
 .unit_4_lesson_5 .exercise3 img {width: 100%;max-width: 100%;}
 .unit_4_lesson_5 .exercise3 .header_part {width: 100%;height: 90px;float: left;position: absolute;}
-.unit_4_lesson_5 .exercise3 .left_pointer_img {position: relative;width: 326px;height: 94px;left: -10px;z-index: 9;float: left;}
+.unit_4_lesson_5 .exercise3 .left_pointer_img {    position: relative;
+    width: 326px;
+    height: 94px;
+    left: -37px;
+    top: -55px;
+    z-index: 9;
+    float: left;}
 .unit_4_lesson_5 .exercise3 .right_word_text {width: 150px;float: left;margin-top: 30px;}
 .unit_4_lesson_5 .exercise3 .color_area1 {width: 100%;top: 0px;position: relative;float: left;}
 .unit_4_lesson_5 .exercise3 .img_area {width: 100%;text-align: center;float: left;}
