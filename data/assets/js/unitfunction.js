@@ -2058,7 +2058,6 @@ var unitFn = {
     },
 
     unit_3_Fn: function() {
-
         unitLesson_1_Fn();
         unitLesson_2_Fn();
         unitLesson_3_Fn();
@@ -2667,13 +2666,192 @@ var unitFn = {
 
                 function exerciseFn_2() {
 
+                var isUserCorrectOne = true;
+
+                $(".unit_3_lesson_4 .exercise_2 .submit_btn").on("click", function() {
+                   
+                    FirstVal_0 = $("#zero").val();
+                    FirstVal_1 = $("#one").val();
+                    FirstVal_2 = $("#two").val();
+                    FirstVal_3 = $("#three").val();
+                    FirstVal_4 = $("#four").val();
+                    FirstVal_5 = $("#five").val();
+                    FirstVal_6 = $("#six").val();
+                    FirstVal_7 = $("#seven").val();
+                    FirstVal_8 = $("#eight").val();
+                    FirstVal_9 = $("#nine").val();
+                    FirstVal_10 = $("#ten").val();
+
+                    SecondVal_0 = $("#zero_0").val();
+                    SecondVal_1 = $("#one_1").val();
+                    SecondVal_2 = $("#two_2").val();
+                    SecondVal_3 = $("#three_3").val();
+                    SecondVal_4 = $("#four_4").val();
+                    SecondVal_5 = $("#five_5").val();
+                    SecondVal_6 = $("#six_6").val();
+                    SecondVal_7 = $("#seven_7").val();
+                    SecondVal_8 = $("#eight_8").val();
+                    SecondVal_9 = $("#nine_9").val();
+                    SecondVal_10 = $("#ten_10").val();
+                   
+
+                    if (FirstVal_0 === "0" && FirstVal_1 === "1" && FirstVal_2 === "2" && FirstVal_3 === "3" && FirstVal_4 === "4" && FirstVal_5 === "5" && FirstVal_6 === "6" && FirstVal_7 === "7" && FirstVal_8 === "8" && FirstVal_9 === "9" && FirstVal_10 === "10" && SecondVal_0 === "0" && SecondVal_1 === "1" && SecondVal_2 === "2" && SecondVal_3 === "3" && SecondVal_4 === "4" && SecondVal_5 === "5" && SecondVal_6 === "6" && SecondVal_7 === "7" && SecondVal_8 === "8" && SecondVal_9 === "9" && SecondVal_10 === "10") {
+                        isUserCorrectOne = true;
+                    } else {
+                        isUserCorrectOne = false;
+                    }
+                    if (isUserCorrectOne) {
+                        $(".unit_3_lesson_4 .exercise_2 .feedback_box").show();
+                        $(".unit_3_lesson_4 .exercise_2 .overlay").show();
+                        $(".unit_3_lesson_4 .exercise_2 .right_feedback").show();
+
+                    } else {
+                        $(".unit_3_lesson_4 .exercise_2 .feedback_box").show();
+                        $(".unit_3_lesson_4 .exercise_2 .overlay").show();
+                        $(".unit_3_lesson_4 .exercise_2 .wrong_feedback").show();
+
+                    }
+                });
+                $(".unit_3_lesson_4 .exercise_2 .close_popup").off("click").on("click", function() {
+                    if (isUserCorrectOne == false) {
+                        $('.unit_3_lesson_4 .exercise_2 .input_number_box input').each(function() {
+                            $(this).val('');
+                        });
+                    }
+                    $(".unit_3_lesson_4 .exercise_2 .feedback_box").hide();
+                    $(".unit_3_lesson_4 .exercise_2 .right_feedback").hide();
+                    $(".unit_3_lesson_4 .exercise_2 .wrong_feedback").hide();
+                    $(".unit_3_lesson_4 .exercise_2 .overlay").hide();
+                });
+
+                $(".unit_3_lesson_4 .exercise_2 .reload").on('click', function() {
+                    $('.unit_3_lesson_4 .exercise_2 .input_number_box input').each(function() {
+                        $(this).val('');
+                    });
+                });
+            
+
                 }
 
                 function exerciseFn_3() {
 
+
+                var isUserCorrectOne = true;
+
+                $(".unit_3_lesson_4 .exercise_3 .submit_btn").on("click", function() {
+                   
+                    FirstVal_0 = $("#ex_3_val_0").val();
+                    FirstVal_1 = $("#ex_3_val_1").val();
+                    FirstVal_2 = $("#ex_3_val_2").val();
+                    FirstVal_3 = $("#ex_3_val_3").val();
+                    FirstVal_4 = $("#ex_3_val_4").val();
+                    FirstVal_5 = $("#ex_3_val_5").val();
+                    FirstVal_6 = $("#ex_3_val_6").val();
+                    FirstVal_7 = $("#ex_3_val_7").val();
+                    FirstVal_8 = $("#ex_3_val_8").val();
+                    FirstVal_9 = $("#ex_3_val_9").val();
+                    FirstVal_10 = $("#ex_3_val_10").val();
+
+
+                    if (FirstVal_0 === "0" && FirstVal_1 === "1" && FirstVal_2 === "2" && FirstVal_3 === "3" && FirstVal_4 === "4" && FirstVal_5 === "5" && FirstVal_6 === "6" && FirstVal_7 === "7" && FirstVal_8 === "8" && FirstVal_9 === "9" && FirstVal_10 === "10" ) {
+                        isUserCorrectOne = true;
+                    } else {
+                        isUserCorrectOne = false;
+                    }
+                    if (isUserCorrectOne) {
+                        $(".unit_3_lesson_4 .exercise_3 .feedback_box").show();
+                        $(".unit_3_lesson_4 .exercise_3 .overlay").show();
+                        $(".unit_3_lesson_4 .exercise_3 .right_feedback").show();
+
+                    } else {
+                        $(".unit_3_lesson_4 .exercise_3 .feedback_box").show();
+                        $(".unit_3_lesson_4 .exercise_3 .overlay").show();
+                        $(".unit_3_lesson_4 .exercise_3 .wrong_feedback").show();
+
+                    }
+                });
+                $(".unit_3_lesson_4 .exercise_3 .close_popup").off("click").on("click", function() {
+                    if (isUserCorrectOne == false) {
+                        $('.unit_3_lesson_4 .exercise_3 .input_number_box input').each(function() {
+                            $(this).val('');
+                        });
+                    }
+                    $(".unit_3_lesson_4 .exercise_3 .feedback_box").hide();
+                    $(".unit_3_lesson_4 .exercise_3 .right_feedback").hide();
+                    $(".unit_3_lesson_4 .exercise_3 .wrong_feedback").hide();
+                    $(".unit_3_lesson_4 .exercise_3 .overlay").hide();
+                });
+
+                $(".unit_3_lesson_4 .exercise_3 .reload").on('click', function() {
+                    $('.unit_3_lesson_4 .exercise_3 .input_number_box input').each(function() {
+                        $(this).val('');
+                    });
+                });
+            
+
+                
+
                 }
 
                 function exerciseFn_4() {
+
+                var isUserCorrectOne = true;
+
+                $(".unit_3_lesson_4 .exercise_4 .submit_btn").on("click", function() {
+                   
+                    FirstVal_1 = $("#ex_3_val_0").val();
+                    FirstVal_3 = $("#ex_3_val_1").val();
+                    FirstVal_5 = $("#ex_3_val_2").val();
+                    FirstVal_7 = $("#ex_3_val_3").val();
+                    FirstVal_9 = $("#ex_3_val_4").val();
+
+                    thredVal_3 = $("#ex_3_val_5").val();
+                    FirstVal_6 = $("#ex_3_val_6").val();
+                    nineVal_9 = $("#ex_3_val_7").val();
+
+                    zeroVal_0 = $("#ex_3_val_8").val();
+                    twoVal_2 = $("#ex_3_val_9").val();
+                    fourVal_4 = $("#ex_3_val_10").val();
+                    sixVal_6 = $("#ex_3_val_10").val();
+                    eightVal_8 = $("#ex_3_val_10").val();
+                    tenVal_10 = $("#ex_3_val_10").val();
+
+
+                    if (FirstVal_1 === "1" && FirstVal_3 === "3" && FirstVal_5 === "5" && FirstVal_7 === "7" && FirstVal_9 === "9" && thredVal_3 === "3" && FirstVal_6 === "6" && nineVal_9 === "9" && zeroVal_0 === "0" && twoVal_2 === "2" && fourVal_4 === "4" && sixVal_6 === "6" && eightVal_8 === "8" && tenVal_10 === "10") {
+                        isUserCorrectOne = true;
+                    } else {
+                        isUserCorrectOne = false;
+                    }
+                    if (isUserCorrectOne) {
+                        $(".unit_3_lesson_4 .exercise_4 .feedback_box").show();
+                        $(".unit_3_lesson_4 .exercise_4 .overlay").show();
+                        $(".unit_3_lesson_4 .exercise_4 .right_feedback").show();
+
+                    } else {
+                        $(".unit_3_lesson_4 .exercise_4 .feedback_box").show();
+                        $(".unit_3_lesson_4 .exercise_4 .overlay").show();
+                        $(".unit_3_lesson_4 .exercise_4 .wrong_feedback").show();
+
+                    }
+                });
+                $(".unit_3_lesson_4 .exercise_4 .close_popup").off("click").on("click", function() {
+                    if (isUserCorrectOne == false) {
+                        $('.unit_3_lesson_4 .exercise_4 .input_number_box input').each(function() {
+                            $(this).val('');
+                        });
+                    }
+                    $(".unit_3_lesson_4 .exercise_4 .feedback_box").hide();
+                    $(".unit_3_lesson_4 .exercise_4 .right_feedback").hide();
+                    $(".unit_3_lesson_4 .exercise_4 .wrong_feedback").hide();
+                    $(".unit_3_lesson_4 .exercise_4 .overlay").hide();
+                });
+
+                $(".unit_3_lesson_4 .exercise_4 .reload").on('click', function() {
+                    $('.unit_3_lesson_4 .exercise_4 .input_number_box input').each(function() {
+                        $(this).val('');
+                    });
+                });
+            
 
                 }
             }
@@ -2690,9 +2868,100 @@ var unitFn = {
 
                 function exerciseFn_2() {
 
+                var isUserCorrectOne = true;
+
+                $(".unit_3_lesson_5 .exercise2 .submit_btn").on("click", function() {
+                   
+                    FirstValNub = $("#fifteen_number").val();
+                    FirstValText = $("#fifteen_text").val();
+                    
+
+
+                    if (FirstValNub === "151515" && FirstValText === "fifteen") {
+                        isUserCorrectOne = true;
+                    } else {
+                        isUserCorrectOne = false;
+                    }
+                    if (isUserCorrectOne) {
+                        $(".unit_3_lesson_5 .exercise2 .feedback_box").show();
+                        $(".unit_3_lesson_5 .exercise2 .overlay").show();
+                        $(".unit_3_lesson_5 .exercise2 .right_feedback").show();
+
+                    } else {
+                        $(".unit_3_lesson_5 .exercise2 .feedback_box").show();
+                        $(".unit_3_lesson_5 .exercise2 .overlay").show();
+                        $(".unit_3_lesson_5 .exercise2 .wrong_feedback").show();
+
+                    }
+                });
+                $(".unit_3_lesson_5 .exercise2 .close_popup").off("click").on("click", function() {
+                    if (isUserCorrectOne == false) {
+                        $('.unit_3_lesson_5 .exercise2 .input-box input').each(function() {
+                            $(this).val('');
+                        });
+                    }
+                    $(".unit_3_lesson_5 .exercise2 .feedback_box").hide();
+                    $(".unit_3_lesson_5 .exercise2 .right_feedback").hide();
+                    $(".unit_3_lesson_5 .exercise2 .wrong_feedback").hide();
+                    $(".unit_3_lesson_5 .exercise2 .overlay").hide();
+                });
+
+                $(".unit_3_lesson_5 .exercise2 .reload").on('click', function() {
+                    $('.unit_3_lesson_5 .exercise2 .input-box input').each(function() {
+                        $(this).val('');
+                    });
+                });
+            
+
+                
+
+                
+
+                
                 }
 
                 function exerciseFn_3() {
+
+                var isUserCorrectOne = true;
+
+                $(".unit_3_lesson_5 .exercise_3 .box").on('click', function(){
+                    $(this).toggleClass("active_color");
+                });
+
+                $(".unit_3_lesson_5 .exercise_3 .submit_btn").on("click", function() {                    
+
+                    totalVal= $(".active_color").length;
+
+                    if (totalVal == 15) {
+                        isUserCorrectOne = true;
+                    } else {
+                        isUserCorrectOne = false;
+                    }
+                    if (isUserCorrectOne) {
+                        $(".unit_3_lesson_5 .exercise_3 .feedback_box").show();
+                        $(".unit_3_lesson_5 .exercise_3 .overlay").show();
+                        $(".unit_3_lesson_5 .exercise_3 .right_feedback").show();
+
+                    } else {
+                        $(".unit_3_lesson_5 .exercise_3 .feedback_box").show();
+                        $(".unit_3_lesson_5 .exercise_3 .overlay").show();
+                        $(".unit_3_lesson_5 .exercise_3 .wrong_feedback").show();
+
+                    }
+                });
+                $(".unit_3_lesson_5 .exercise_3 .close_popup").off("click").on("click", function() {
+                    if (isUserCorrectOne == false) {
+                        $(".unit_3_lesson_5 .exercise_3 .box").removeClass("active_color");
+                    }
+                    $(".unit_3_lesson_5 .exercise_3 .feedback_box").hide();
+                    $(".unit_3_lesson_5 .exercise_3 .right_feedback").hide();
+                    $(".unit_3_lesson_5 .exercise_3 .wrong_feedback").hide();
+                    $(".unit_3_lesson_5 .exercise_3 .overlay").hide();
+                });
+
+                $(".unit_3_lesson_5 .exercise_3 .reload").on('click', function() {
+                    $(".unit_3_lesson_5 .exercise_3 .box").removeClass("active_color");
+                });
 
                 }
 
