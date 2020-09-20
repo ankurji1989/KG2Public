@@ -24,11 +24,10 @@
     position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    top: -40px;
+    left: -37px;
+    top: -55px;
     z-index: 9;
-    float: left;
-}
+    float: left;}
 
 .exercise1 .three_box {
     width: 33.3%;
@@ -105,11 +104,11 @@
 }
 
 .exercise2 .left_pointer_img {
-    position: relative;
+       position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    top: -40px;
+    left: -37px;
+    top: -55px;
     z-index: 9;
     float: left;
 }
@@ -150,7 +149,7 @@
 }
 
 .text_area.spiker_icon.Zoom {
-    width: 60px;
+    width: 48px;
 }
 
 .exercise2 .bottom_border:after {
@@ -311,11 +310,11 @@ input {
 }
 
 .exercise3 .left_pointer_img {
-    position: relative;
+        position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    top: -40px;
+    left: -37px;
+    top: -55px;
     z-index: 9;
     float: left;
 }
@@ -476,11 +475,11 @@ input {
 }
 
 .exercise4 .left_pointer_img {
-    position: relative;
+        position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    top: -40px;
+    left: -37px;
+    top: -55px;
     z-index: 9;
     float: left;
 }
@@ -640,13 +639,13 @@ input {
 }
 
 .unit_1_lesson_2 .exercise1 .readLogo {
-    float: left;
+        position: relative;
     width: 326px;
     height: 94px;
-    position: relative;
-    left: -10px;
-    top: -40px;
+    left: -37px;
+    top: -55px;
     z-index: 9;
+    float: left;
 }
 
 .unit_1_lesson_2 .exercise1 .rightRocketSec {
@@ -753,13 +752,13 @@ input {
 }
 
 .unit_1_lesson_2 .exercise2 .readLogo {
-    float: left;
+        position: relative;
     width: 326px;
     height: 94px;
-    position: relative;
-    left: -10px;
-    top: -40px;
+    left: -37px;
+    top: -55px;
     z-index: 9;
+    float: left;
 }
 
 .unit_1_lesson_2 .exercise2 .rightRocketSec {
@@ -1052,12 +1051,13 @@ input {
 .unit_1_lesson_2 .exercise4 .reset {}
 
 .unit_1_lesson_2 .exercise4 .left_top {
-    position: absolute;
-    left: 16px;
-    top: 23px;
+       position: absolute;
     width: 326px;
     height: 94px;
+    left: -3px;
+    top: 13px;
     z-index: 9;
+    float: left;
 }
 .unit_1_lesson_2 .exercise4 .girl_img {
     position: absolute;
@@ -1326,11 +1326,11 @@ input {
 }
 
 .unit_1_lesson_3 .exercise4 .left_pointer_img {
-    position: relative;
+        position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    top: -40px;
+    left: -37px;
+    top: -55px;
     z-index: 9;
     float: left;
 }
@@ -2623,11 +2623,11 @@ input {
 }
 
 .unit2_lession1 .exercise1 .left_pointer_img {
-    position: relative;
+       position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    /*top: -10px;*/
+    left: -37px;
+    top: -55px;
     z-index: 9;
     float: left;
 }
@@ -2707,11 +2707,11 @@ input {
 }
 
 .unit2_lession1 .exercise2 .left_pointer_img {
-    position: relative;
+        position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    /*top: -10px;*/
+    left: -37px;
+    top: -55px;
     z-index: 9;
     float: left;
 }
@@ -2888,11 +2888,11 @@ input {
 }
 
 .unit2_lession1 .exercise3 .left_pointer_img {
-    position: relative;
+        position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    /*top: -10px;*/
+    left: -37px;
+    top: -55px;
     z-index: 9;
     float: left;
 }
@@ -3070,11 +3070,11 @@ input {
 }
 
 .unit2_lession1 .exercise4 .left_pointer_img {
-    position: relative;
+        position: relative;
     width: 326px;
     height: 94px;
-    left: -10px;
-    /*top: -10px;*/
+    left: -37px;
+    top: -55px;
     z-index: 9;
     float: left;
 }

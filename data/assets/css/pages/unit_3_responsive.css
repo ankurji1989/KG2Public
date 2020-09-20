@@ -33,6 +33,33 @@
   .unit_3_lesson_3 .exercise_4 .match_box_area { left: 0; transform: scale(0.5); top: -92px;}
   .unit_3_lesson_3 .exercise_4 .right_jhoola { position: absolute; width: 140px; top: 40px; right: 30px;}
   .unit_3_lesson_3 .exercise_4 .right_boy { position: absolute; bottom: 0; left: 0; width: 90px;}
+
+  .unit_3_lesson_5 .exercise_3 .left_pointer_img.Zoom.top {
+    position: relative;
+    top: 0px;
+    z-index: 9;
+}
+.unit_3_lesson_5 .exercise_3 .submit_btn {
+    width: 35px;
+    float: left;
+    height: auto;
+}
+.unit_3_lesson_5 .exercise_3 .reload {
+    width: 35px;
+    float: left;
+    height: auto;
+}
+.unit_3_lesson_5 .exercise_3 .botton_box {
+    width: 75px;
+    position: absolute;
+    right: 0px;
+    bottom: 1px;
+}
+
+.unit_3_lesson_5 .exercise_3 .botton_box img {
+    width: 100%;
+    max-width: 100%;
+}
 }
 
 @media (max-width: 480px) {
@@ -113,6 +140,79 @@
   .unit_3_lesson_3 .exercise_4 .right_jhoola { position: absolute; width: 160px; top: 120px; right: 0;}
   .unit_3_lesson_3 .exercise_4 .right_boy { position: absolute; bottom: 0; left: 0; width: 90px;}
 
+
+.unit_3_lesson_5 .exercise_3 .main_box {
+    width: 100%;
+    position: absolute;
+    margin-bottom: 20px;
+    float: left;
+    top: 98px;
+    left: -103px;
+}
+
+.unit_3_lesson_5 .exercise_3 .main_box_1 {
+    width: 301px;
+    position: absolute;
+    margin-bottom: 20px;
+    /* float: left; */
+    top: 280px;
+    left: -103px;
+}
+.unit_3_lesson_5 .exercise_3 .left_pointer_img.Zoom.top {
+    position: relative;
+    top: -50px;
+    z-index: 9;
+    top: 0px;
+    left: 0px;
+}
+.unit_3_lesson_5 .exercise_3 .fifth img {
+    position: absolute;
+    width: 27%;
+    bottom: 16px;
+    left: 0px;
+}
+
+
+.unit_3_lesson_5 .exercise_4 .main_box_top:after{
+    content: '';
+    background: url(../../images/unit3/lesson_5/exercise_4/horizontal_line.png) right top;
+width: 100%;
+height: 39px;
+    position: absolute;
+    bottom: 22px;
+    background-size: 100%;
+    left: 0px;
+    display: none;
+}
+.unit_3_lesson_5 .exercise_4 .header_part.clap {
+    position: absolute;
+    z-index: 9;
+    top: -1px;
+    left: -14px;
+}
+
+.unit_3_lesson_5 .exercise_4 .iner_box {
+    position: relative;
+    width: 100%;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: -5px;
+    top: 68px;
+}
+.unit_3_lesson_5 .exercise_4 .light_box img {
+    width: 156px;
+    float: left;
+    height: 292px;
+}
+.unit_3_lesson_5 .exercise_4 .header_part.clap_type {
+    position: relative;
+    top: 34px;
+    left: -9px;
+    z-index: 9;
+}
+
 }
 
 
@@ -121,4 +221,94 @@
     .unit_3_lesson_2 .exercise2 .contentBox {height: 430px;}
     .unit_3_lesson_2 .exercise3 .contentBox {height: 430px;}
     .unit_3_lesson_2 .exercise4 .contentBox {height: 430px;}
+     .unit_3_lesson_5 .exercise_3 .box {
+        width: 46px;
+    background: #fff;
+    height: 60px;
+    border: 1px solid;
+    float: left;
+    position: relative;
+    left: 0px;
+    }
+
+
+    .unit_3_lesson_5 .exercise_3 .row_five {
+        width: 244px;
+    }
+
+
+    .unit_3_lesson_5 .exercise_3 .main_box {
+        width: 216px;
+        position: absolute;
+        margin-bottom: 20px;
+        top: 95px;
+        left: 26px;
+    }
+    .unit_3_lesson_5 .exercise_3 .main_box_1 {
+        width: 301px;
+    position: absolute;
+    margin-bottom: 20px;
+    left: 50%;
+    top: 96px;
+    right: 0px;
+    }
+    .unit_3_lesson_5 .exercise_3 .fifth img {
+        position: absolute;
+        width: 10%;
+        left: 14px;
+        bottom: -1px;
+    }
+    .unit_3_lesson_5 .exercise_3 .submit_btn {
+        width: 35px;
+        float: left;
+        height: auto;
+    }
+    .unit_3_lesson_5 .exercise_3 .reload {
+        width: 35px;
+        float: left;
+        height: auto;
+    }
+    .unit_3_lesson_5 .exercise_3 .botton_box {
+        width: 70px;
+    position: absolute;
+    right: 17px;
+    bottom: 0px;
+    }
+     .unit_3_lesson_5 .exercise_4 .header_part.clap {
+    position: absolute;
+    z-index: 9;
+    top: 0px;
+    left: -12px;
+}
+.unit_3_lesson_5 .exercise_4 .main_box_top:after {
+    content: '';
+    background: url(../../images/unit3/lesson_5/exercise_4/horizontal_line.png) right top;
+    width: 100%;
+    height: 39px;
+    position: absolute;
+    bottom: 11px;
+    background-size: 100%;
+    left: 0px;
+    background-repeat: no-repeat;
+}
+.unit_3_lesson_5 .exercise_4 .iner_box {
+    position: relative;
+    width: 50%;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 227px;
+}
+.unit_3_lesson_5 .exercise_4 .light_box img {
+    width: 197px;
+    float: left;
+    height: 325px;
+}
+.unit_3_lesson_5 .exercise_4 .header_part.clap_type {
+    position: absolute;
+    top: 218px;
+    left: -16px;
+    z-index: 9;
+}
 }
